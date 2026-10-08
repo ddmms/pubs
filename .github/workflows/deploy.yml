@@ -43,13 +43,13 @@ jobs:
 
       - name: Run test suite
         run: |
-          python -m unittest test_pubs.py
+          python -m unittest discover tests
 
       - name: Commit updated publications data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update publications from ORCID [skip ci]"
-          file_pattern: "PUBLICATIONS.md index.html publications.json data/cache/*.json"
+          file_pattern: "PUBLICATIONS.md index.html publications.json data/authors.csv data/cache/*.json"
         continue-on-error: true
 
       - name: Setup GitHub Pages

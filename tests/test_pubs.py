@@ -1,8 +1,15 @@
 import json
 import os
+from pathlib import Path
+import sys
 import tempfile
 import unittest
 from unittest.mock import MagicMock, patch
+
+# Ensure src/ is on sys.path
+SRC_DIR = Path(__file__).resolve().parent.parent / "src"
+if str(SRC_DIR) not in sys.path:
+    sys.path.insert(0, str(SRC_DIR))
 
 from pubs import (
     ORCID_IDS,
@@ -15,6 +22,7 @@ from pubs import (
     fetch_member_works,
     generate_html,
     generate_markdown,
+    load_orcids_from_csv,
     normalize_title,
     select_best_summary,
 )
@@ -61,11 +69,9 @@ class TestPubs(unittest.TestCase):
         self.assertIsNone(extract_doi({"external-id": [{"external-id-type": "isbn", "external-id-value": "12345"}]}))
 
     def test_extract_fallback_url(self):
-        # Explicit url in summary
         summary = {"url": {"value": "https://example.com/paper"}}
         self.assertEqual(extract_fallback_url(summary), "https://example.com/paper")
 
-        # external-id-url
         summary_ext_url = {
             "url": None,
             "external-ids": {
@@ -76,7 +82,6 @@ class TestPubs(unittest.TestCase):
         }
         self.assertEqual(extract_fallback_url(summary_ext_url), "https://wos.com/123")
 
-        # uri external-id type
         summary_uri = {
             "url": None,
             "external-ids": {
@@ -87,7 +92,6 @@ class TestPubs(unittest.TestCase):
         }
         self.assertEqual(extract_fallback_url(summary_uri), "https://arxiv.org/abs/2603.05442")
 
-        # None / missing
         self.assertIsNone(extract_fallback_url({"url": None, "external-ids": None}))
 
     def test_select_best_summary(self):
@@ -96,7 +100,6 @@ class TestPubs(unittest.TestCase):
         s2 = {"display-index": "0", "title": "Preferred Version"}
         s3 = {"display-index": "1", "title": "Version 2"}
         self.assertEqual(select_best_summary([s1, s2, s3]), s2)
-        # Fallback to first if none has 0
         self.assertEqual(select_best_summary([s1, s3]), s1)
 
     def test_normalize_title(self):
@@ -121,7 +124,6 @@ class TestPubs(unittest.TestCase):
                 "type": "preprint",
             },
         ]
-        # Co-author has same paper but with missing journal and different year
         mock_works_2 = [
             {
                 "title": "Quantum Simulations",
@@ -131,7 +133,6 @@ class TestPubs(unittest.TestCase):
                 "url": None,
                 "type": "journal-article",
             },
-            # Second author has published version of preprint with journal and DOI
             {
                 "title": "Old Preprint",
                 "year": "2024",
@@ -145,7 +146,6 @@ class TestPubs(unittest.TestCase):
         with patch("pubs.fetch_member_works", side_effect=[mock_works_1, mock_works_2]):
             result = aggregate_publications(["orcid-1", "orcid-2"])
             self.assertEqual(len(result), 2)
-            # Verify Old Preprint was enriched with DOI and Journal
             preprint_res = next(r for r in result if r["title"] == "Old Preprint")
             self.assertEqual(preprint_res["doi"], "10.1038/456")
             self.assertEqual(preprint_res["journal"], "Nature")
@@ -226,6 +226,29 @@ class TestPubs(unittest.TestCase):
 
         self.assertIn("0000-0002-7013-6670", ORCID_IDS)
         self.assertEqual(ORCID_IDS["0000-0002-7013-6670"], "Alin Marin Elena")
+
+    def test_load_orcids_from_csv(self):
+        csv_content = """# Group members
+orcid,name
+0000-0002-7013-6670,Alin Marin Elena
+https://orcid.org/0000-0001-6068-6786,Gilberto Teobaldi
+"""
+        with tempfile.NamedTemporaryFile("w+", delete=False, suffix=".csv") as tmp:
+            tmp.write(csv_content)
+            tmp_path = tmp.name
+
+        try:
+            loaded = load_orcids_from_csv(tmp_path)
+            self.assertEqual(len(loaded), 2)
+            self.assertEqual(loaded["0000-0002-7013-6670"], "Alin Marin Elena")
+            self.assertEqual(loaded["0000-0001-6068-6786"], "Gilberto Teobaldi")
+        finally:
+            if os.path.exists(tmp_path):
+                os.remove(tmp_path)
+
+    def test_load_orcids_from_csv_file_not_found(self):
+        with self.assertRaises(FileNotFoundError):
+            load_orcids_from_csv("non_existent_file.csv")
 
     def test_aggregate_publications_accepts_dict(self):
         mock_works = [
@@ -345,4 +368,3 @@ class TestPubs(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-

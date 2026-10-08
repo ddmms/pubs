@@ -159,14 +159,16 @@
     "title": "MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry",
     "year": "2026",
     "journal": null,
-    "doi": null,
+    "doi": "10.48550/arxiv.2602.19411",
     "url": "https://arxiv.org/abs/2602.19411",
     "type": "journal-article",
     "authors": [
-      "Alin Marin Elena"
+      "Alin Marin Elena",
+      "Elliott Kasoar"
     ],
     "orcids": [
-      "0000-0002-7013-6670"
+      "0000-0002-7013-6670",
+      "0009-0005-2015-9478"
     ]
   },
   {
@@ -345,10 +347,12 @@
     "url": "https://doi.org/10.48550/arxiv.2510.25380",
     "type": "journal-article",
     "authors": [
-      "Alin Marin Elena"
+      "Alin Marin Elena",
+      "Elliott Kasoar"
     ],
     "orcids": [
-      "0000-0002-7013-6670"
+      "0000-0002-7013-6670",
+      "0009-0005-2015-9478"
     ]
   },
   {
@@ -363,6 +367,34 @@
     ],
     "orcids": [
       "0000-0002-7013-6670"
+    ]
+  },
+  {
+    "title": "FTorch - lowering the technical barrier of incorporating ML into Fortran models",
+    "year": "2025",
+    "journal": null,
+    "doi": "10.5194/egusphere-egu24-17852",
+    "url": "https://doi.org/10.5194/egusphere-egu24-17852",
+    "type": "preprint",
+    "authors": [
+      "Elliott Kasoar"
+    ],
+    "orcids": [
+      "0009-0005-2015-9478"
+    ]
+  },
+  {
+    "title": "FTorch: a library for coupling PyTorch models to Fortran",
+    "year": "2025",
+    "journal": "Journal of Open Source Software",
+    "doi": "10.21105/joss.07602",
+    "url": "https://doi.org/10.21105/joss.07602",
+    "type": "journal-article",
+    "authors": [
+      "Elliott Kasoar"
+    ],
+    "orcids": [
+      "0009-0005-2015-9478"
     ]
   },
   {
@@ -517,6 +549,20 @@
     ],
     "orcids": [
       "0000-0002-7013-6670"
+    ]
+  },
+  {
+    "title": "Tools and techniques for modular, portable (Machine Learning) parameterisations",
+    "year": "2025",
+    "journal": null,
+    "doi": "10.5194/egusphere-egu24-18057",
+    "url": "https://doi.org/10.5194/egusphere-egu24-18057",
+    "type": "preprint",
+    "authors": [
+      "Elliott Kasoar"
+    ],
+    "orcids": [
+      "0009-0005-2015-9478"
     ]
   },
   {
@@ -898,6 +944,20 @@
     ]
   },
   {
+    "title": "Matter-antimatter rearrangements using the R-matrix method",
+    "year": "2023",
+    "journal": "Frontiers in Physics",
+    "doi": "10.3389/fphy.2023.1187537",
+    "url": "https://doi.org/10.3389/fphy.2023.1187537",
+    "type": "journal-article",
+    "authors": [
+      "Elliott Kasoar"
+    ],
+    "orcids": [
+      "0009-0005-2015-9478"
+    ]
+  },
+  {
     "title": "Parallel Nanosheet Arrays for Industrial Oxygen Production",
     "year": "2023",
     "journal": "Journal of the American Chemical Society",
@@ -1121,6 +1181,20 @@
     ],
     "orcids": [
       "0000-0001-6068-6786"
+    ]
+  },
+  {
+    "title": "Similar patterns of tropical precipitation and circulation changes under solar and greenhouse gas forcing",
+    "year": "2021",
+    "journal": "Environmental Research Letters",
+    "doi": "10.1088/1748-9326/ac28b1",
+    "url": "https://doi.org/10.1088/1748-9326/ac28b1",
+    "type": "journal-article",
+    "authors": [
+      "Elliott Kasoar"
+    ],
+    "orcids": [
+      "0009-0005-2015-9478"
     ]
   },
   {

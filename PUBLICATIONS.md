@@ -35,7 +35,7 @@
                       </mml:msub>
                     </mml:math>
                     and its effect on ferroelectric hafnia](https://doi.org/10.1103/2j8c-3z3h)** *Physical Review B*. [DOI: 10.1103/2j8c-3z3h](https://doi.org/10.1103/2j8c-3z3h)
-- **[MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry](https://arxiv.org/abs/2602.19411)**
+- **[MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry](https://arxiv.org/abs/2602.19411)** [DOI: 10.48550/arxiv.2602.19411](https://doi.org/10.48550/arxiv.2602.19411)
 - **[Non-Arrhenius threshold switching by field-driven dipolar ordering](https://doi.org/10.1038/s41467-026-72970-z)** *Nature Communications*. [DOI: 10.1038/s41467-026-72970-z](https://doi.org/10.1038/s41467-026-72970-z)
 - **[Realizing ultrafast Li-ion transport through electronegative nanochannels for high-rate lithium metal battery](https://doi.org/10.1016/j.nanoen.2026.112012)** *Nano Energy*. [DOI: 10.1016/j.nanoen.2026.112012](https://doi.org/10.1016/j.nanoen.2026.112012)
 - **Scalar-pathway fidelity improves physical accuracy in short-range equivariant interatomic potentials** *arXiv preprint arXiv:2606.15892*.
@@ -53,6 +53,8 @@
 - **[Carbon Dioxide Electroreduction on Gold without Metal or Organic Cations](https://doi.org/10.1021/acscatal.5c02785)** *ACS Catalysis*. [DOI: 10.1021/acscatal.5c02785](https://doi.org/10.1021/acscatal.5c02785)
 - **[Cross Learning between Electronic Structure Theories for Unifying Molecular, Surface, and Inorganic Crystal Foundation Force Fields](https://doi.org/10.48550/arxiv.2510.25380)** [DOI: 10.48550/arxiv.2510.25380](https://doi.org/10.48550/arxiv.2510.25380)
 - **[Equilibrium isotope fractionation in carbonate minerals: Role of Mg-Ca distribution and thermal effects](https://doi.org/10.1016/j.gca.2025.01.031)** *Geochimica et Cosmochimica Acta*. [DOI: 10.1016/j.gca.2025.01.031](https://doi.org/10.1016/j.gca.2025.01.031)
+- **[FTorch - lowering the technical barrier of incorporating ML into Fortran models](https://doi.org/10.5194/egusphere-egu24-17852)** [DOI: 10.5194/egusphere-egu24-17852](https://doi.org/10.5194/egusphere-egu24-17852)
+- **[FTorch: a library for coupling PyTorch models to Fortran](https://doi.org/10.21105/joss.07602)** *Journal of Open Source Software*. [DOI: 10.21105/joss.07602](https://doi.org/10.21105/joss.07602)
 - **[Low‐Energy, Ultrafast Spin Reorientation at Competing Hybrid Interfaces with Tunable Operating Temperature](https://doi.org/10.1002/adma.202419192)** *Advanced Materials*. [DOI: 10.1002/adma.202419192](https://doi.org/10.1002/adma.202419192)
 - **[Machine learned potential for high-throughput phonon calculations of metal—organic frameworks](https://doi.org/10.1038/s41524-025-01611-8)** *Npj Computational Materials*. [DOI: 10.1038/s41524-025-01611-8](https://doi.org/10.1038/s41524-025-01611-8)
 - **[Mapping of the full polarization switching pathways for HfO
@@ -68,6 +70,7 @@
 - **[The role of primary and secondary electrons in scanning transmission electron microscopy of hybrid perovskites: the CsPbBr$_{3}$ case.](https://doi.org/10.1039/d5ma00141b)** *Materials Advances*. [DOI: 10.1039/d5ma00141b](https://doi.org/10.1039/d5ma00141b)
 - **[Thermal Conductivity and Thermal Diffusivity of Molten Salts: Insights from Molecular Dynamics Simulations and Fundamental Bounds](https://doi.org/10.1021/acs.jpcb.4c07565)** *The Journal of Physical Chemistry B*. [DOI: 10.1021/acs.jpcb.4c07565](https://doi.org/10.1021/acs.jpcb.4c07565)
 - **[Thermodynamics and transport in molten chloride salts and their mixtures](https://doi.org/10.48550/arxiv.2501.01971)** *Physical Chemistry Chemical Physics*. [DOI: 10.48550/arxiv.2501.01971](https://doi.org/10.48550/arxiv.2501.01971)
+- **[Tools and techniques for modular, portable (Machine Learning) parameterisations](https://doi.org/10.5194/egusphere-egu24-18057)** [DOI: 10.5194/egusphere-egu24-18057](https://doi.org/10.5194/egusphere-egu24-18057)
 
 ## 2024
 
@@ -111,6 +114,7 @@
 - **[Imogolite Nanotubes and Their Permanently Polarized Bifunctional Surfaces for Photocatalytic Hydrogen Production](https://doi.org/10.1002/gch2.202300255)** *Global Challenges*. [DOI: 10.1002/gch2.202300255](https://doi.org/10.1002/gch2.202300255)
 - **[Interactive molecular dynamics in virtual reality for modelling materials and catalysts](https://doi.org/10.1016/j.jmgm.2023.108606)** *Journal of Molecular Graphics and Modelling*. [DOI: 10.1016/j.jmgm.2023.108606](https://doi.org/10.1016/j.jmgm.2023.108606)
 - **[Magnetohydrodynamic Redeposition of Cations Onto the Anode](https://doi.org/10.1149/ma2023-02201235mtgabs)** *ECS Meeting Abstracts*. [DOI: 10.1149/ma2023-02201235mtgabs](https://doi.org/10.1149/ma2023-02201235mtgabs)
+- **[Matter-antimatter rearrangements using the R-matrix method](https://doi.org/10.3389/fphy.2023.1187537)** *Frontiers in Physics*. [DOI: 10.3389/fphy.2023.1187537](https://doi.org/10.3389/fphy.2023.1187537)
 - **[Parallel Nanosheet Arrays for Industrial Oxygen Production](https://doi.org/10.1021/jacs.3c05688)** *Journal of the American Chemical Society*. [DOI: 10.1021/jacs.3c05688](https://doi.org/10.1021/jacs.3c05688)
 - **[Polaron-assisted nonadiabatic dynamics in protonated TiO2 with surface water molecule](https://doi.org/10.1016/j.chphma.2023.02.005)** *ChemPhysMater*. [DOI: 10.1016/j.chphma.2023.02.005](https://doi.org/10.1016/j.chphma.2023.02.005)
 - **[Tuning Octahedral Tilting by Doping to Prevent Detrimental Phase Transition and Extend Carrier Lifetime in Organometallic Perovskites](https://doi.org/10.1021/jacs.2c13593)** *Journal of the American Chemical Society*. [DOI: 10.1021/jacs.2c13593](https://doi.org/10.1021/jacs.2c13593)
@@ -133,6 +137,7 @@
 - **[Radiation damage effects in amorphous zirconolite](https://doi.org/10.1016/j.jnucmat.2020.152654)** *Journal of Nuclear Materials*. [DOI: 10.1016/j.jnucmat.2020.152654](https://doi.org/10.1016/j.jnucmat.2020.152654)
 - **[Radiation damage effects on Helium diffusion in zircon](https://doi.org/10.48550/arxiv.2104.12599)** *arXiv*. [DOI: 10.48550/arxiv.2104.12599](https://doi.org/10.48550/arxiv.2104.12599)
 - **[Recent Advances in Low-Dimensional Janus Materials: a Theory and Simulation Perspective](https://doi.org/10.1039/d1ma00660f)** *Materials Advances*. [DOI: 10.1039/d1ma00660f](https://doi.org/10.1039/d1ma00660f)
+- **[Similar patterns of tropical precipitation and circulation changes under solar and greenhouse gas forcing](https://doi.org/10.1088/1748-9326/ac28b1)** *Environmental Research Letters*. [DOI: 10.1088/1748-9326/ac28b1](https://doi.org/10.1088/1748-9326/ac28b1)
 - **[Structure and Oxygen Evolution Activity of β-NiOOH: Where Are the Protons?](https://doi.org/10.1021/acscatal.1c04647)** *ACS Catalysis*. [DOI: 10.1021/acscatal.1c04647](https://doi.org/10.1021/acscatal.1c04647)
 - **[Subspace Occupancy-Constraining Potentials for Modeling Polaron Formation](https://doi.org/10.1021/acs.jpcc.1c07709)** *The Journal of Physical Chemistry C*. [DOI: 10.1021/acs.jpcc.1c07709](https://doi.org/10.1021/acs.jpcc.1c07709)
 - **[Task-Based Parallelism with OpenMP: a case study with DL_POLY_4](https://doi.org/10.1080/08927022.2019.1606424)** *Molecular Simulation*. [DOI: 10.1080/08927022.2019.1606424](https://doi.org/10.1080/08927022.2019.1606424)

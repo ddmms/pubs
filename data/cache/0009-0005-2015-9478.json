@@ -1,0 +1,794 @@
+{
+  "last-modified-date": {
+    "value": 1780646000015
+  },
+  "group": [
+    {
+      "last-modified-date": {
+        "value": 1780645975247
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.48550/ARXIV.2602.19411",
+            "external-id-normalized": {
+              "value": "10.48550/arxiv.2602.19411",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.48550/ARXIV.2602.19411"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 216817783,
+          "created-date": {
+            "value": 1780645975247
+          },
+          "last-modified-date": {
+            "value": 1780645975247
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0009-0005-2015-9478",
+              "path": "0009-0005-2015-9478",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Elliott Kasoar"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.48550/ARXIV.2602.19411",
+                "external-id-normalized": {
+                  "value": "10.48550/arxiv.2602.19411",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.48550/ARXIV.2602.19411"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://arxiv.org/abs/2602.19411"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0009-0005-2015-9478/work/216817783",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1741209390337
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.21105/joss.07602",
+            "external-id-normalized": {
+              "value": "10.21105/joss.07602",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.21105/joss.07602"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 179455557,
+          "created-date": {
+            "value": 1741209390337
+          },
+          "last-modified-date": {
+            "value": 1741209390337
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "FTorch: a library for coupling PyTorch models to Fortran"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.21105/joss.07602",
+                "external-id-normalized": {
+                  "value": "10.21105/joss.07602",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.21105/joss.07602"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.21105/joss.07602"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": {
+              "value": "03"
+            },
+            "day": {
+              "value": "05"
+            }
+          },
+          "journal-title": {
+            "value": "Journal of Open Source Software"
+          },
+          "visibility": "public",
+          "path": "/0009-0005-2015-9478/work/179455557",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1737411795699
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.5194/egusphere-egu24-17852",
+            "external-id-normalized": {
+              "value": "10.5194/egusphere-egu24-17852",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.5194/egusphere-egu24-17852"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 176231865,
+          "created-date": {
+            "value": 1737404077878
+          },
+          "last-modified-date": {
+            "value": 1737411795699
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "FTorch - lowering the technical barrier of incorporating ML into Fortran models"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.5194/egusphere-egu24-17852",
+                "external-id-normalized": {
+                  "value": "10.5194/egusphere-egu24-17852",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.5194/egusphere-egu24-17852"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.5194/egusphere-egu24-17852"
+          },
+          "type": "preprint",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": {
+              "value": "01"
+            },
+            "day": {
+              "value": "20"
+            }
+          },
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0009-0005-2015-9478/work/176231865",
+          "display-index": "3"
+        },
+        {
+          "put-code": 155908507,
+          "created-date": {
+            "value": 1710963631836
+          },
+          "last-modified-date": {
+            "value": 1710963631836
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0009-0005-2015-9478",
+              "path": "0009-0005-2015-9478",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Elliott Kasoar"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "FTorch - lowering the technical barrier of incorporating ML into Fortran models"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.5194/egusphere-egu24-17852",
+                "external-id-normalized": {
+                  "value": "10.5194/egusphere-egu24-17852",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.5194/egusphere-egu24-17852"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://dx.doi.org/10.5194/egusphere-egu24-17852"
+          },
+          "type": "preprint",
+          "publication-date": {
+            "year": {
+              "value": "2024"
+            },
+            "month": {
+              "value": "03"
+            },
+            "day": {
+              "value": "11"
+            }
+          },
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0009-0005-2015-9478/work/155908507",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1737411789894
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.5194/egusphere-egu24-18057",
+            "external-id-normalized": {
+              "value": "10.5194/egusphere-egu24-18057",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.5194/egusphere-egu24-18057"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 176231866,
+          "created-date": {
+            "value": 1737404078085
+          },
+          "last-modified-date": {
+            "value": 1737411789894
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Tools and techniques for modular, portable (Machine Learning) parameterisations"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.5194/egusphere-egu24-18057",
+                "external-id-normalized": {
+                  "value": "10.5194/egusphere-egu24-18057",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.5194/egusphere-egu24-18057"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.5194/egusphere-egu24-18057"
+          },
+          "type": "preprint",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": {
+              "value": "01"
+            },
+            "day": {
+              "value": "20"
+            }
+          },
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0009-0005-2015-9478/work/176231866",
+          "display-index": "2"
+        },
+        {
+          "put-code": 155908548,
+          "created-date": {
+            "value": 1710963673369
+          },
+          "last-modified-date": {
+            "value": 1710963673369
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0009-0005-2015-9478",
+              "path": "0009-0005-2015-9478",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Elliott Kasoar"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Tools and techniques for modular, portable (Machine Learning) parameterisations"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.5194/egusphere-egu24-18057",
+                "external-id-normalized": {
+                  "value": "10.5194/egusphere-egu24-18057",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.5194/egusphere-egu24-18057"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://dx.doi.org/10.5194/egusphere-egu24-18057"
+          },
+          "type": "preprint",
+          "publication-date": {
+            "year": {
+              "value": "2024"
+            },
+            "month": {
+              "value": "03"
+            },
+            "day": {
+              "value": "11"
+            }
+          },
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0009-0005-2015-9478/work/155908548",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1780646000015
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.48550/ARXIV.2510.25380",
+            "external-id-normalized": {
+              "value": "10.48550/arxiv.2510.25380",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.48550/ARXIV.2510.25380"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 216817803,
+          "created-date": {
+            "value": 1780646000015
+          },
+          "last-modified-date": {
+            "value": 1780646000015
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0009-0005-2015-9478",
+              "path": "0009-0005-2015-9478",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Elliott Kasoar"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Cross Learning between Electronic Structure Theories for Unifying Molecular, Surface, and Inorganic Crystal Foundation Force Fields"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.48550/ARXIV.2510.25380",
+                "external-id-normalized": {
+                  "value": "10.48550/arxiv.2510.25380",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.48550/ARXIV.2510.25380"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://arxiv.org/abs/2510.25380"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2025"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0009-0005-2015-9478/work/216817803",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1697029859843
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.3389/fphy.2023.1187537",
+            "external-id-normalized": {
+              "value": "10.3389/fphy.2023.1187537",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.3389/fphy.2023.1187537"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 144165029,
+          "created-date": {
+            "value": 1697029859843
+          },
+          "last-modified-date": {
+            "value": 1697029859843
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0009-0005-2015-9478",
+              "path": "0009-0005-2015-9478",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Elliott Kasoar"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Matter-antimatter rearrangements using the R-matrix method"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.3389/fphy.2023.1187537",
+                "external-id-normalized": {
+                  "value": "10.3389/fphy.2023.1187537",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.3389/fphy.2023.1187537"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "2296-424X",
+                "external-id-normalized": {
+                  "value": "2296-424X",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://portal.issn.org/resource/ISSN/2296-424X"
+                },
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://dx.doi.org/10.3389/fphy.2023.1187537"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2023"
+            },
+            "month": {
+              "value": "05"
+            },
+            "day": {
+              "value": "26"
+            }
+          },
+          "journal-title": {
+            "value": "Frontiers in Physics"
+          },
+          "visibility": "public",
+          "path": "/0009-0005-2015-9478/work/144165029",
+          "display-index": "1"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1697029905527
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1088/1748-9326/ac28b1",
+            "external-id-normalized": {
+              "value": "10.1088/1748-9326/ac28b1",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1088/1748-9326/ac28b1"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 144165201,
+          "created-date": {
+            "value": 1697029905527
+          },
+          "last-modified-date": {
+            "value": 1697029905527
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0009-0005-2015-9478",
+              "path": "0009-0005-2015-9478",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Elliott Kasoar"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Similar patterns of tropical precipitation and circulation changes under solar and greenhouse gas forcing"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1088/1748-9326/ac28b1",
+                "external-id-normalized": {
+                  "value": "10.1088/1748-9326/ac28b1",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1088/1748-9326/ac28b1"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "1748-9326",
+                "external-id-normalized": {
+                  "value": "1748-9326",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://portal.issn.org/resource/ISSN/1748-9326"
+                },
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://dx.doi.org/10.1088/1748-9326/ac28b1"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2021"
+            },
+            "month": {
+              "value": "10"
+            },
+            "day": {
+              "value": "01"
+            }
+          },
+          "journal-title": {
+            "value": "Environmental Research Letters"
+          },
+          "visibility": "public",
+          "path": "/0009-0005-2015-9478/work/144165201",
+          "display-index": "1"
+        }
+      ]
+    }
+  ],
+  "path": "/0009-0005-2015-9478/works"
+}
