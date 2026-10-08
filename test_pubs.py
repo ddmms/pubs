@@ -1,3 +1,4 @@
+import json
 import os
 import tempfile
 import unittest
@@ -7,9 +8,12 @@ from pubs import (
     ORCID_IDS,
     ORCIDS_IDS,
     aggregate_publications,
+    build_html_page,
+    export_json,
     extract_doi,
     extract_fallback_url,
     fetch_member_works,
+    generate_html,
     generate_markdown,
     normalize_title,
     select_best_summary,
@@ -166,7 +170,7 @@ class TestPubs(unittest.TestCase):
             ]
         }
         with patch("requests.get", return_value=mock_resp):
-            works = fetch_member_works("0000-0000-0000-0000")
+            works = fetch_member_works("0000-0000-0000-0000", cache_dir=None)
             self.assertEqual(len(works), 1)
             self.assertEqual(works[0]["title"], "Valid Title")
             self.assertEqual(works[0]["year"], "Unknown")
@@ -235,10 +239,108 @@ class TestPubs(unittest.TestCase):
             }
         ]
         with patch("pubs.fetch_member_works", return_value=mock_works) as mock_fetch:
-            res = aggregate_publications({"0000-0002-7013-6670": "Alin Marin Elena"})
-            mock_fetch.assert_called_once_with("0000-0002-7013-6670")
+            res = aggregate_publications({"0000-0002-7013-6670": "Alin Marin Elena"}, cache_dir="data/cache")
+            mock_fetch.assert_called_once_with("0000-0002-7013-6670", cache_dir="data/cache")
             self.assertEqual(len(res), 1)
             self.assertEqual(res[0]["title"], "Quantum Simulations")
+            self.assertEqual(res[0]["authors"], ["Alin Marin Elena"])
+            self.assertEqual(res[0]["orcids"], ["0000-0002-7013-6670"])
+
+    def test_aggregate_publications_coauthor_merging(self):
+        work_a = [
+            {
+                "title": "Shared Paper",
+                "year": "2026",
+                "journal": "Nature",
+                "doi": "10.1038/s1",
+                "url": "https://doi.org/10.1038/s1",
+                "type": "journal-article",
+            }
+        ]
+        work_b = [
+            {
+                "title": "Shared Paper",
+                "year": "2026",
+                "journal": "Nature",
+                "doi": "10.1038/s1",
+                "url": "https://doi.org/10.1038/s1",
+                "type": "journal-article",
+            }
+        ]
+        with patch("pubs.fetch_member_works", side_effect=[work_a, work_b]):
+            res = aggregate_publications({
+                "0000-0002-7013-6670": "Alin Marin Elena",
+                "0000-0001-6068-6786": "Gilberto Teobaldi",
+            })
+            self.assertEqual(len(res), 1)
+            self.assertEqual(res[0]["authors"], ["Alin Marin Elena", "Gilberto Teobaldi"])
+            self.assertEqual(res[0]["orcids"], ["0000-0002-7013-6670", "0000-0001-6068-6786"])
+
+    def test_build_and_generate_html(self):
+        pubs = [
+            {
+                "title": "Interactive Simulations Webpage",
+                "year": "2026",
+                "journal": "J. Comput. Phys.",
+                "doi": "10.1016/j.jcp.2026.01",
+                "url": "https://doi.org/10.1016/j.jcp.2026.01",
+                "type": "journal-article",
+                "authors": ["Alin Marin Elena"],
+                "orcids": ["0000-0002-7013-6670"],
+            }
+        ]
+        author_dict = {
+            "0000-0002-7013-6670": "Alin Marin Elena",
+            "0000-0001-6068-6786": "Gilberto Teobaldi",
+        }
+        html_str = build_html_page(pubs, author_dict)
+        self.assertIn("<!DOCTYPE html>", html_str)
+        self.assertIn("Filter by Author", html_str)
+        self.assertIn("Filter by Year", html_str)
+        self.assertIn("Alin Marin Elena", html_str)
+        self.assertIn("Gilberto Teobaldi", html_str)
+        self.assertIn("Interactive Simulations Webpage", html_str)
+
+        with tempfile.NamedTemporaryFile("w+", delete=False, suffix=".html") as tmp:
+            tmp_path = tmp.name
+
+        try:
+            generate_html(pubs, author_dict, output_path=tmp_path)
+            self.assertTrue(os.path.exists(tmp_path))
+            with open(tmp_path, "r", encoding="utf-8") as f:
+                content = f.read()
+            self.assertIn("Interactive Simulations Webpage", content)
+        finally:
+            if os.path.exists(tmp_path):
+                os.remove(tmp_path)
+
+    def test_export_json(self):
+        pubs = [
+            {
+                "title": "Data Export Test",
+                "year": "2026",
+                "journal": None,
+                "doi": None,
+                "url": None,
+                "type": "other",
+                "authors": ["Gilberto Teobaldi"],
+                "orcids": ["0000-0001-6068-6786"],
+            }
+        ]
+        with tempfile.NamedTemporaryFile("w+", delete=False, suffix=".json") as tmp:
+            tmp_path = tmp.name
+
+        try:
+            export_json(pubs, output_path=tmp_path)
+            self.assertTrue(os.path.exists(tmp_path))
+            with open(tmp_path, "r", encoding="utf-8") as f:
+                loaded = json.load(f)
+            self.assertEqual(len(loaded), 1)
+            self.assertEqual(loaded[0]["title"], "Data Export Test")
+            self.assertEqual(loaded[0]["authors"], ["Gilberto Teobaldi"])
+        finally:
+            if os.path.exists(tmp_path):
+                os.remove(tmp_path)
 
 
 if __name__ == "__main__":
