@@ -1026,8 +1026,7 @@ __AUTHORS_JSON__
       }
 
       // Populate filter dropdowns
-      function populateDropdowns() {
-        // Author dropdown: count publications per author
+      function populateAuthorDropdown() {
         const authorCounts = {};
         for (const name of Object.values(authorsDict)) {
           authorCounts[name] = 0;
@@ -1040,17 +1039,25 @@ __AUTHORS_JSON__
           }
         }
 
-        // Add author options
         for (const [name, count] of Object.entries(authorCounts)) {
           const opt = document.createElement('option');
           opt.value = name;
           opt.textContent = `${name} (${count})`;
           authorFilter.appendChild(opt);
         }
+      }
 
-        // Year dropdown: extract distinct years in descending order
+      function updateYearDropdown(selectedAuthor = null) {
+        if (!selectedAuthor) {
+          selectedAuthor = authorFilter.value;
+        }
+
+        const relevantPubs = (selectedAuthor && selectedAuthor !== 'all')
+          ? publications.filter(p => p.authors && p.authors.includes(selectedAuthor))
+          : publications;
+
         const yearCounts = {};
-        for (const pub of publications) {
+        for (const pub of relevantPubs) {
           const yr = pub.year || 'Unknown';
           yearCounts[yr] = (yearCounts[yr] || 0) + 1;
         }
@@ -1061,19 +1068,33 @@ __AUTHORS_JSON__
           return parseInt(b, 10) - parseInt(a, 10);
         });
 
+        const previousYear = yearFilter.value;
+        yearFilter.innerHTML = '';
+
+        const allOpt = document.createElement('option');
+        allOpt.value = 'all';
+        allOpt.textContent = selectedAuthor !== 'all' ? `All Years (${relevantPubs.length})` : 'All Years';
+        yearFilter.appendChild(allOpt);
+
         for (const yr of sortedYears) {
           const opt = document.createElement('option');
           opt.value = yr;
           opt.textContent = `${yr} (${yearCounts[yr]})`;
           yearFilter.appendChild(opt);
         }
+
+        if (previousYear && previousYear !== 'all' && yearCounts[previousYear] !== undefined) {
+          yearFilter.value = previousYear;
+        } else {
+          yearFilter.value = 'all';
+        }
       }
 
-      // Read query params
+      let pendingYear = null;
       function readUrlParams() {
         const params = new URLSearchParams(window.location.search);
         if (params.has('author')) authorFilter.value = params.get('author');
-        if (params.has('year')) yearFilter.value = params.get('year');
+        if (params.has('year')) pendingYear = params.get('year');
         if (params.has('search')) searchInput.value = params.get('search');
         if (params.has('sort')) sortSelect.value = params.get('sort');
         if (params.has('group')) groupYearToggle.checked = params.get('group') !== 'false';
@@ -1200,6 +1221,7 @@ __AUTHORS_JSON__
             chip.addEventListener('click', (e) => {
               e.preventDefault();
               authorFilter.value = author;
+              updateYearDropdown(author);
               render();
             });
             authorsWrapper.appendChild(chip);
@@ -1350,7 +1372,7 @@ __AUTHORS_JSON__
         if (authorFilter.value !== 'all') {
           pills.push({
             label: `Author: ${authorFilter.value}`,
-            clear: () => { authorFilter.value = 'all'; render(); }
+            clear: () => { authorFilter.value = 'all'; updateYearDropdown('all'); render(); }
           });
         }
         if (yearFilter.value !== 'all') {
@@ -1475,7 +1497,10 @@ __AUTHORS_JSON__
       });
 
       // Event listeners
-      authorFilter.addEventListener('change', render);
+      authorFilter.addEventListener('change', () => {
+        updateYearDropdown(authorFilter.value);
+        render();
+      });
       yearFilter.addEventListener('change', render);
       searchInput.addEventListener('input', render);
       sortSelect.addEventListener('change', render);
@@ -1483,6 +1508,7 @@ __AUTHORS_JSON__
 
       resetBtn.addEventListener('click', () => {
         authorFilter.value = 'all';
+        updateYearDropdown('all');
         yearFilter.value = 'all';
         searchInput.value = '';
         sortSelect.value = 'year-desc';
@@ -1492,8 +1518,17 @@ __AUTHORS_JSON__
 
       // Initial execution
       initStats();
-      populateDropdowns();
+      populateAuthorDropdown();
       readUrlParams();
+      updateYearDropdown(authorFilter.value);
+      if (pendingYear) {
+        for (const opt of yearFilter.options) {
+          if (opt.value === pendingYear) {
+            yearFilter.value = pendingYear;
+            break;
+          }
+        }
+      }
       initTheme();
       render();
     })();

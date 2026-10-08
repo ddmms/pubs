@@ -323,6 +323,8 @@ https://orcid.org/0000-0001-6068-6786,Gilberto Teobaldi
         self.assertIn("Alin Marin Elena", html_str)
         self.assertIn("Gilberto Teobaldi", html_str)
         self.assertIn("Interactive Simulations Webpage", html_str)
+        self.assertIn("updateYearDropdown", html_str)
+        self.assertIn("populateAuthorDropdown", html_str)
 
         with tempfile.NamedTemporaryFile("w+", delete=False, suffix=".html") as tmp:
             tmp_path = tmp.name
