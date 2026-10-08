@@ -1,5 +1,11 @@
+"""Pubs - Aggregate research publications from ORCID API.
+
+Copyright (c) 2026, Alin M. Elena and contributors
+Distributed under the terms of the BSD 3-Clause License.
+"""
 import argparse
 import csv
+from datetime import datetime, timezone
 import html
 import json
 import os
@@ -138,6 +144,26 @@ def extract_fallback_url(summary: Dict[str, Any], group: Dict[str, Any] | None =
     return None
 
 
+def assemble_doi_url(doi: Optional[str]) -> Optional[str]:
+    """Assemble a standard HTTPS DOI URL from a DOI string."""
+    if not doi or not isinstance(doi, str):
+        return None
+    clean = doi.strip()
+    clean = re.sub(r"^https?://(dx\.)?doi\.org/", "", clean, flags=re.IGNORECASE)
+    clean = re.sub(r"^doi:\s*", "", clean, flags=re.IGNORECASE).strip()
+    return f"https://doi.org/{clean}" if clean else None
+
+
+def get_publication_url(pub: Dict[str, Any]) -> Optional[str]:
+    """Assemble publication URL using DOI if present, falling back to url field."""
+    doi = pub.get("doi")
+    if doi:
+        assembled = assemble_doi_url(doi)
+        if assembled:
+            return assembled
+    return pub.get("url")
+
+
 def select_best_summary(summaries: List[Dict[str, Any]]) -> Dict[str, Any]:
     """Select the preferred work summary in a group (display-index 0), or the first."""
     if not summaries:
@@ -242,8 +268,8 @@ def fetch_member_works(orcid_id: str, cache_dir: str = "data/cache") -> List[Dic
         if not doi:
             doi = extract_doi(group.get("external-ids"))
 
-        # URL fallback: DOI URL or explicit work URL or external-id URL
-        work_url = f"https://doi.org/{doi}" if doi else extract_fallback_url(summary, group)
+        # URL: assemble using DOI if available, or fall back to alternative URL
+        work_url = assemble_doi_url(doi) or extract_fallback_url(summary, group)
 
         records.append({
             "title": title,
@@ -301,14 +327,18 @@ def aggregate_publications(
                 if not existing.get("doi") and doi:
                     existing["doi"] = doi
                     doi_map[doi] = existing
+                if existing.get("doi"):
+                    existing["url"] = assemble_doi_url(existing["doi"])
+                elif not existing.get("url") and work.get("url"):
+                    existing["url"] = work["url"]
                 if not existing.get("journal") and work.get("journal"):
                     existing["journal"] = work["journal"]
-                if not existing.get("url") and work.get("url"):
-                    existing["url"] = work["url"]
                 if existing.get("year") == "Unknown" and work.get("year") != "Unknown":
                     existing["year"] = work["year"]
             else:
                 work_copy = dict(work)
+                if work_copy.get("doi"):
+                    work_copy["url"] = assemble_doi_url(work_copy["doi"])
                 work_copy["authors"] = [author_name] if author_name else []
                 work_copy["orcids"] = [orcid] if orcid else []
                 deduped.append(work_copy)
@@ -326,9 +356,21 @@ def aggregate_publications(
     return sorted(deduped, key=sort_key)
 
 
-def generate_markdown(publications: List[Dict[str, Any]], output_path: str = "PUBLICATIONS.md"):
+def generate_markdown(
+    publications: List[Dict[str, Any]],
+    output_path: str = "PUBLICATIONS.md",
+    last_updated: Optional[str] = None,
+):
     """Write grouped publications by year to Markdown."""
-    lines = ["# Group Publications", "", "*Auto-generated via ORCID Public API*"]
+    if last_updated is None:
+        last_updated = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+    lines = [
+        "# Group Publications",
+        "",
+        "*Auto-generated via ORCID Public API*",
+        f"*Last updated: {last_updated}*",
+    ]
 
     current_year = None
     for pub in publications:
@@ -337,11 +379,19 @@ def generate_markdown(publications: List[Dict[str, Any]], output_path: str = "PU
             current_year = year
             lines.extend(["", f"## {current_year}", ""])
 
-        title_str = f"**[{pub['title']}]({pub['url']})**" if pub["url"] else f"**{pub['title']}**"
-        venue_str = f" *{pub['journal']}*." if pub["journal"] else ""
-        doi_str = f" [DOI: {pub['doi']}](https://doi.org/{pub['doi']})" if pub["doi"] else ""
+        target_url = get_publication_url(pub)
+        title_str = f"**[{pub['title']}]({target_url})**" if target_url else f"**{pub['title']}**"
+        venue_str = f" *{pub['journal']}*." if pub.get("journal") else ""
+        doi_str = f" [DOI: {pub['doi']}](https://doi.org/{pub['doi']})" if pub.get("doi") else ""
 
         lines.append(f"- {title_str}{venue_str}{doi_str}")
+
+    lines.extend([
+        "",
+        "---",
+        "",
+        "Copyright (c) 2026, Alin M. Elena and contributors. Released under the [BSD 3-Clause License](LICENSE).",
+    ])
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines).strip() + "\n")
@@ -355,7 +405,11 @@ def export_json(publications: List[Dict[str, Any]], output_path: str = "publicat
     print(f"Exported {len(publications)} publications to {output_path}")
 
 
-def build_html_page(publications: List[Dict[str, Any]], orcid_dict: Dict[str, str]) -> str:
+def build_html_page(
+    publications: List[Dict[str, Any]],
+    orcid_dict: Dict[str, str],
+    last_updated: Optional[str] = None,
+) -> str:
     """Build the complete self-contained HTML page for GitHub Pages."""
     template = r"""<!DOCTYPE html>
 <html lang="en">
@@ -835,13 +889,20 @@ def build_html_page(publications: List[Dict[str, Any]], orcid_dict: Dict[str, st
       flex-wrap: wrap;
       gap: 1rem;
     }
+    footer p {
+      margin: 0.2rem 0;
+    }
     footer a { color: var(--primary); text-decoration: none; }
     footer a:hover { text-decoration: underline; }
+    .footer-right {
+      text-align: right;
+    }
 
     @media (max-width: 640px) {
       .header-title-group h1 { font-size: 1.7rem; }
       .controls-grid { grid-template-columns: 1fr; }
       .results-bar { flex-direction: column; align-items: flex-start; }
+      .footer-right { text-align: left; }
     }
   </style>
 </head>
@@ -942,11 +1003,13 @@ def build_html_page(publications: List[Dict[str, Any]], orcid_dict: Dict[str, st
     </main>
 
     <footer>
-      <div>
-        Aggregated via <a href="https://pub.orcid.org" target="_blank" rel="noopener noreferrer">ORCID Public API</a>.
+      <div class="footer-left">
+        <p>&copy; 2026 Alin M. Elena and contributors. Released under the <a href="LICENSE">BSD 3-Clause License</a>.</p>
+        <p>Aggregated via <a href="https://pub.orcid.org" target="_blank" rel="noopener noreferrer">ORCID Public API</a>.</p>
       </div>
-      <div>
-        Hosted on <a href="https://pages.github.com" target="_blank" rel="noopener noreferrer">GitHub Pages</a>
+      <div class="footer-right">
+        <p>Last updated: <time datetime="__LAST_UPDATED_ISO__">__LAST_UPDATED_TEXT__</time></p>
+        <p>Hosted on <a href="https://pages.github.com" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.</p>
       </div>
     </footer>
   </div>
@@ -1186,9 +1249,11 @@ __AUTHORS_JSON__
         // Title
         const titleEl = document.createElement('h3');
         titleEl.className = 'pub-title';
-        if (pub.url) {
+        const cleanDoi = pub.doi ? pub.doi.replace(/^https?:\/\/(dx\.)?doi\.org\//i, '').replace(/^doi:\s*/i, '').trim() : '';
+        const pubUrl = cleanDoi ? `https://doi.org/${cleanDoi}` : (pub.url || null);
+        if (pubUrl) {
           const a = document.createElement('a');
-          a.href = pub.url;
+          a.href = pubUrl;
           a.target = '_blank';
           a.rel = 'noopener noreferrer';
           a.textContent = pub.title;
@@ -1536,18 +1601,32 @@ __AUTHORS_JSON__
 </body>
 </html>
 """
+    if last_updated is None:
+        now = datetime.now(timezone.utc)
+        last_updated_iso = now.strftime("%Y-%m-%d")
+        last_updated_text = f"{now.strftime('%B')} {now.day}, {now.year}"
+    else:
+        last_updated_iso = last_updated
+        last_updated_text = last_updated
+
     pubs_json = json.dumps(publications, ensure_ascii=False)
     authors_json = json.dumps(orcid_dict, ensure_ascii=False)
-    return template.replace("__PUBLICATIONS_JSON__", pubs_json).replace("__AUTHORS_JSON__", authors_json)
+    return (
+        template.replace("__PUBLICATIONS_JSON__", pubs_json)
+        .replace("__AUTHORS_JSON__", authors_json)
+        .replace("__LAST_UPDATED_ISO__", last_updated_iso)
+        .replace("__LAST_UPDATED_TEXT__", last_updated_text)
+    )
 
 
 def generate_html(
     publications: List[Dict[str, Any]],
     orcid_dict: Dict[str, str],
     output_path: str = "index.html",
+    last_updated: Optional[str] = None,
 ):
     """Generate self-contained interactive publications webpage for GitHub Pages."""
-    content = build_html_page(publications, orcid_dict)
+    content = build_html_page(publications, orcid_dict, last_updated=last_updated)
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(content)
     print(f"Generated {output_path} with {len(publications)} publications.")

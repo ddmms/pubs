@@ -15,6 +15,7 @@ from pubs import (
     ORCID_IDS,
     ORCIDS_IDS,
     aggregate_publications,
+    assemble_doi_url,
     build_html_page,
     export_json,
     extract_doi,
@@ -22,6 +23,7 @@ from pubs import (
     fetch_member_works,
     generate_html,
     generate_markdown,
+    get_publication_url,
     load_orcids_from_csv,
     normalize_title,
     select_best_summary,
@@ -93,6 +95,32 @@ class TestPubs(unittest.TestCase):
         self.assertEqual(extract_fallback_url(summary_uri), "https://arxiv.org/abs/2603.05442")
 
         self.assertIsNone(extract_fallback_url({"url": None, "external-ids": None}))
+
+    def test_assemble_doi_url(self):
+        self.assertEqual(assemble_doi_url("10.1063/5.0297006"), "https://doi.org/10.1063/5.0297006")
+        self.assertEqual(assemble_doi_url("https://doi.org/10.1063/5.0297006"), "https://doi.org/10.1063/5.0297006")
+        self.assertEqual(assemble_doi_url("http://dx.doi.org/10.1063/5.0297006"), "https://doi.org/10.1063/5.0297006")
+        self.assertEqual(assemble_doi_url("doi: 10.1063/5.0297006"), "https://doi.org/10.1063/5.0297006")
+        self.assertIsNone(assemble_doi_url(None))
+        self.assertIsNone(assemble_doi_url(""))
+        self.assertIsNone(assemble_doi_url("   "))
+
+    def test_get_publication_url(self):
+        # Prefers assembled DOI URL
+        pub_doi = {"doi": "10.1039/d5dd00565e", "url": "https://other.com/paper"}
+        self.assertEqual(get_publication_url(pub_doi), "https://doi.org/10.1039/d5dd00565e")
+
+        # Uses DOI when url is None
+        pub_doi_only = {"doi": "10.1039/d5dd00565e", "url": None}
+        self.assertEqual(get_publication_url(pub_doi_only), "https://doi.org/10.1039/d5dd00565e")
+
+        # Fallback to url if no DOI
+        pub_fallback = {"doi": None, "url": "https://arxiv.org/abs/2602.19411"}
+        self.assertEqual(get_publication_url(pub_fallback), "https://arxiv.org/abs/2602.19411")
+
+        # Neither DOI nor url
+        pub_none = {"doi": None, "url": None}
+        self.assertIsNone(get_publication_url(pub_none))
 
     def test_select_best_summary(self):
         self.assertEqual(select_best_summary([]), {})
@@ -187,6 +215,13 @@ class TestPubs(unittest.TestCase):
                 "url": "https://doi.org/10.1126/science.1",
             },
             {
+                "title": "DOI Assembled Paper",
+                "year": "2026",
+                "journal": "Nature",
+                "doi": "10.1038/s41586-026-0001",
+                "url": None,
+            },
+            {
                 "title": "Preprint Paper",
                 "year": "2026",
                 "journal": None,
@@ -205,7 +240,10 @@ class TestPubs(unittest.TestCase):
             self.assertIn("# Group Publications", content)
             self.assertIn("## 2026", content)
             self.assertIn("- **[New Paper](https://doi.org/10.1126/science.1)** *Science*. [DOI: 10.1126/science.1](https://doi.org/10.1126/science.1)", content)
+            self.assertIn("- **[DOI Assembled Paper](https://doi.org/10.1038/s41586-026-0001)** *Nature*. [DOI: 10.1038/s41586-026-0001](https://doi.org/10.1038/s41586-026-0001)", content)
             self.assertIn("- **[Preprint Paper](https://arxiv.org/123)**", content)
+            self.assertIn("Last updated:", content)
+            self.assertIn("Copyright (c) 2026, Alin M. Elena and contributors", content)
         finally:
             if os.path.exists(tmp_path):
                 os.remove(tmp_path)
@@ -325,6 +363,8 @@ https://orcid.org/0000-0001-6068-6786,Gilberto Teobaldi
         self.assertIn("Interactive Simulations Webpage", html_str)
         self.assertIn("updateYearDropdown", html_str)
         self.assertIn("populateAuthorDropdown", html_str)
+        self.assertIn("Alin M. Elena and contributors", html_str)
+        self.assertIn("Last updated:", html_str)
 
         with tempfile.NamedTemporaryFile("w+", delete=False, suffix=".html") as tmp:
             tmp_path = tmp.name

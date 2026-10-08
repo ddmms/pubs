@@ -1,11 +1,13 @@
 # Group Publications
 
 *Auto-generated via ORCID Public API*
+*Last updated: 2026-10-08*
 
 ## 2026
 
 - **A budget-dependent crossover between coverage-and response-based training-set selection for machine-learned interatomic potentials** *arXiv preprint arXiv:2609.05877*.
 - **[A strategic roadmap for an atomistic machine-learning ecosystem](https://arxiv.org/abs/2609.39090)** *arXiv preprint arxiv: 2609.39090*.
+- **An Efficient On-the-Fly Nonadiabatic Coupling Framework Integrated into CP2K** *The Journal of Physical Chemistry Letters*.
 - **[Automatic generation of input files with optimised k-point meshes for Quantum ESPRESSO self-consistent field single-point total energy calculations](https://doi.org/10.1039/d5dd00565e)** *Digital Discovery*. [DOI: 10.1039/d5dd00565e](https://doi.org/10.1039/d5dd00565e)
 - **[Bond, orbital and spin order in d4/d6/d7 perovskite oxides: successes and limitations of foundation interatomic potentials](https://arxiv.org/abs/2607.08351)** *arxiv.org/abs/2607.08351*.
 - **[Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion](https://arxiv.org/abs/2607.18594)** *arXiv preprint arXiv:2607.18594*.
@@ -13,7 +15,8 @@
 - **Fine-tuning MLIP foundation models: strategies for accuracy and transferability** *arXiv preprint arXiv:2606.12704*.
 - **[Functionalized MOFs for Subnanometric Control of Pd Speciation for Selective Hydrogenation of Butadiene](https://doi.org/10.1021/acsanm.6c00899)** *ACS Applied Nano Materials*. [DOI: 10.1021/acsanm.6c00899](https://doi.org/10.1021/acsanm.6c00899)
 - **[High-Pressure Inelastic Neutron Spectroscopy: Experimental Validation of Machine-Learned Interatomic Potential Energy Landscapes](https://doi.org/10.1021/acs.jpclett.6c00720)** *The Journal of Physical Chemistry Letters*. [DOI: 10.1021/acs.jpclett.6c00720](https://doi.org/10.1021/acs.jpclett.6c00720)
-- **[MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry](https://arxiv.org/abs/2602.19411)** [DOI: 10.48550/arxiv.2602.19411](https://doi.org/10.48550/arxiv.2602.19411)
+- **[Identify the switching of VO 3 and VO 4 and its effect on ferroelectric hafnia](https://doi.org/10.1103/2j8c-3z3h)** *Physical Review B*. [DOI: 10.1103/2j8c-3z3h](https://doi.org/10.1103/2j8c-3z3h)
+- **[MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry](https://doi.org/10.48550/arxiv.2602.19411)** [DOI: 10.48550/arxiv.2602.19411](https://doi.org/10.48550/arxiv.2602.19411)
 - **[Opposite impact of thermal expansion and phonon anharmonicity on the phonon-limited resistivity of elemental metals from first principles](https://doi.org/10.1103/yk57-bt6t)** *Physical Review B*. [DOI: 10.1103/yk57-bt6t](https://doi.org/10.1103/yk57-bt6t)
 - **Scalar-pathway fidelity improves physical accuracy in short-range equivariant interatomic potentials** *arXiv preprint arXiv:2606.15892*.
 - **Scientific applications of quantum computing: challenges and opportunities** *arXiv preprint arXiv:2608.16568*.
@@ -26,8 +29,7 @@
 - **[Equilibrium isotope fractionation in carbonate minerals: Role of Mg-Ca distribution and thermal effects](https://doi.org/10.1016/j.gca.2025.01.031)** *Geochimica et Cosmochimica Acta*. [DOI: 10.1016/j.gca.2025.01.031](https://doi.org/10.1016/j.gca.2025.01.031)
 - **[FTorch - lowering the technical barrier of incorporating ML into Fortran models](https://doi.org/10.5194/egusphere-egu24-17852)** [DOI: 10.5194/egusphere-egu24-17852](https://doi.org/10.5194/egusphere-egu24-17852)
 - **[FTorch: a library for coupling PyTorch models to Fortran](https://doi.org/10.21105/joss.07602)** *Journal of Open Source Software*. [DOI: 10.21105/joss.07602](https://doi.org/10.21105/joss.07602)
-- **[Impact of anharmonicity on the carrier mobility of the Pb-free CsSnBr$_3$ perovskite](https://www.webofscience.com/wos/pprn/full-record/PPRN:123555794)** *Arxiv*.
-- **[Impact of anharmonicity on the carrier mobility of the Pb-free CsSnBr3 perovskite](https://doi.org/10.1103/yssy-5t2v)** *Physical Review B*. [DOI: 10.1103/yssy-5t2v](https://doi.org/10.1103/yssy-5t2v)
+- **[Impact of anharmonicity on the carrier mobility of the Pb-free CsSnBr 3 perovskite](https://doi.org/10.1103/yssy-5t2v)** *Physical Review B*. [DOI: 10.1103/yssy-5t2v](https://doi.org/10.1103/yssy-5t2v)
 - **[Machine learned potential for high-throughput phonon calculations of metal—organic frameworks](https://doi.org/10.1038/s41524-025-01611-8)** *Npj Computational Materials*. [DOI: 10.1038/s41524-025-01611-8](https://doi.org/10.1038/s41524-025-01611-8)
 - **[Modelling silica using MACE-MP machine learnt interatomic potentials](https://doi.org/10.1039/d5cp01882j)** *Physical Chemistry Chemical Physics Pccp*. [DOI: 10.1039/d5cp01882j](https://doi.org/10.1039/d5cp01882j)
 - **[Thermal Conductivity and Thermal Diffusivity of Molten Salts: Insights from Molecular Dynamics Simulations and Fundamental Bounds](https://doi.org/10.1021/acs.jpcb.4c07565)** *The Journal of Physical Chemistry B*. [DOI: 10.1021/acs.jpcb.4c07565](https://doi.org/10.1021/acs.jpcb.4c07565)
@@ -47,14 +49,13 @@
 - **[Fast dynamics and high effective dimensionality of liquid fluidity](https://doi.org/10.48550/arxiv.2304.11909)** *arXiv*. [DOI: 10.48550/arxiv.2304.11909](https://doi.org/10.48550/arxiv.2304.11909)
 - **[Interactive molecular dynamics in virtual reality for modelling materials and catalysts](https://doi.org/10.1016/j.jmgm.2023.108606)** *Journal of Molecular Graphics and Modelling*. [DOI: 10.1016/j.jmgm.2023.108606](https://doi.org/10.1016/j.jmgm.2023.108606)
 - **[Matter-antimatter rearrangements using the R-matrix method](https://doi.org/10.3389/fphy.2023.1187537)** *Frontiers in Physics*. [DOI: 10.3389/fphy.2023.1187537](https://doi.org/10.3389/fphy.2023.1187537)
-- **[Tuning Octahedral Tilting by Doping to Prevent Detrimental Phase Transition and Extend Carrier Lifetime in Organometallic Perovskites](https://doi.org/10.1021/jacs.2c13593)** *JOURNAL OF THE AMERICAN CHEMICAL SOCIETY*. [DOI: 10.1021/jacs.2c13593](https://doi.org/10.1021/jacs.2c13593)
+- **[Tuning octahedral tilting by doping to prevent detrimental phase transition and extend carrier lifetime in organometallic perovskites](https://doi.org/10.1021/jacs.2c13593)** *Journal of the American Chemical Society*. [DOI: 10.1021/jacs.2c13593](https://doi.org/10.1021/jacs.2c13593)
 
 ## 2022
 
 - **[Kinetic Monte Carlo modeling of oxide thin film growth](https://doi.org/10.1063/5.0089043)** *Journal of Chemical Physics*. [DOI: 10.1063/5.0089043](https://doi.org/10.1063/5.0089043)
 - **[Materials and Molecular Modeling at the Exascale](https://doi.org/10.1109/mcse.2022.3141328)** *Computing in Science and Engineering*. [DOI: 10.1109/mcse.2022.3141328](https://doi.org/10.1109/mcse.2022.3141328)
-- **[The role of thermal fluctuations and vibrational entropy for the delta-to-alpha transition in hybrid organic-inorganic perovskites: the FAPbI3 case](https://www.webofscience.com/wos/pprn/full-record/PPRN:12042298)** *Arxiv*.
-- **[The Role of Thermal Fluctuations and Vibrational Entropy: ATheoretical Insight into theδ-to-αTransition of FAPbI<sub>3</sub>](https://doi.org/10.1021/acs.jpclett.2c00454)** *JOURNAL OF PHYSICAL CHEMISTRY LETTERS*. [DOI: 10.1021/acs.jpclett.2c00454](https://doi.org/10.1021/acs.jpclett.2c00454)
+- **The role of thermal fluctuations and vibrational entropy: A theoretical insight into the $δ$-to-$α$ transition of FAPbI3** *The Journal of Physical Chemistry Letters*.
 
 ## 2021
 
@@ -68,26 +69,26 @@
 
 - **[Evolution of amorphous structure under irradiation: Zircon case study](https://doi.org/10.1088/1361-648x/ab9f51)** *Journal of Physics Condensed Matter*. [DOI: 10.1088/1361-648x/ab9f51](https://doi.org/10.1088/1361-648x/ab9f51)
 - **[Reactive Molecular Dynamics at Constant Pressure via Nonreactive Force Fields: Extending the Empirical Valence Bond Method to the Isothermal-Isobaric Ensemble](https://doi.org/10.1021/acs.jpca.0c05461)** *Journal of Physical Chemistry A*. [DOI: 10.1021/acs.jpca.0c05461](https://doi.org/10.1021/acs.jpca.0c05461)
-- **[Subnano Ruthenium Species Anchored on Tin Dioxide Surface for Efficient Alkaline Hydrogen Evolution Reaction](https://doi.org/10.1016/j.xcrp.2020.100026)** *CELL REPORTS PHYSICAL SCIENCE*. [DOI: 10.1016/j.xcrp.2020.100026](https://doi.org/10.1016/j.xcrp.2020.100026)
+- **[Subnano ruthenium species anchored on tin dioxide surface for efficient alkaline hydrogen evolution reaction](https://doi.org/10.1016/j.xcrp.2020.100026)** *Cell Reports Physical Science*. [DOI: 10.1016/j.xcrp.2020.100026](https://doi.org/10.1016/j.xcrp.2020.100026)
 - **[The CECAM electronic structure library and the modular software development paradigm](https://doi.org/10.1063/5.0012901)** *Journal of Chemical Physics*. [DOI: 10.1063/5.0012901](https://doi.org/10.1063/5.0012901)
 
 ## 2019
 
-- **[A nanopump for low-temperature and efficient solar water evaporation](https://doi.org/10.1039/c9ta09281a)** *JOURNAL OF MATERIALS CHEMISTRY A*. [DOI: 10.1039/c9ta09281a](https://doi.org/10.1039/c9ta09281a)
-- **[Rational Design of Ultrasmall Au Nanoparticles on Fe via Galvanic Replacement Under-60 °C for Efficient Methanol Oxidation Reaction Catalyst](https://doi.org/10.1021/acsaem.8b01494)** *ACS APPLIED ENERGY MATERIALS*. [DOI: 10.1021/acsaem.8b01494](https://doi.org/10.1021/acsaem.8b01494)
+- **[A nanopump for low-temperature and efficient solar water evaporation](https://doi.org/10.1039/c9ta09281a)** *Journal of Materials Chemistry A*. [DOI: 10.1039/c9ta09281a](https://doi.org/10.1039/c9ta09281a)
+- **[Rational design of ultrasmall Au nanoparticles on Fe via galvanic replacement under- 60° C for efficient methanol oxidation reaction catalyst](https://doi.org/10.1021/acsaem.8b01494)** *ACS Applied Energy Materials*. [DOI: 10.1021/acsaem.8b01494](https://doi.org/10.1021/acsaem.8b01494)
 - **[Reconsidering Calcium Dehydration as the Rate-Determining Step in Calcium Mineral Growth](https://doi.org/10.1021/acs.jpcc.9b06403)** *Journal of Physical Chemistry C*. [DOI: 10.1021/acs.jpcc.9b06403](https://doi.org/10.1021/acs.jpcc.9b06403)
-- **[Theoretical and experimental design of Pt-Co(OH)<sub>2</sub> electrocatalyst for efficient HER performance in alkaline solution](https://doi.org/10.1016/j.pnsc.2019.05.009)** *PROGRESS IN NATURAL SCIENCE-MATERIALS INTERNATIONAL*. [DOI: 10.1016/j.pnsc.2019.05.009](https://doi.org/10.1016/j.pnsc.2019.05.009)
+- **Theoretical and experimental design of Pt-Co (OH) 2 electrocatalyst for efficient HER performance in alkaline solution** *Progress in Natural Science: Materials International*.
 
 ## 2018
 
-- **[Charge-Transfer-Promoted High Oxygen Evolution Activity of Co@Co<sub>9</sub>S<sub>8</sub> Core-Shell Nanochains](https://doi.org/10.1021/acsami.7b15890)** *ACS APPLIED MATERIALS & INTERFACES*. [DOI: 10.1021/acsami.7b15890](https://doi.org/10.1021/acsami.7b15890)
-- **[Improved Electrocatalytic Performance in Overall Water Splitting with Rational Design of Hierarchical Co<sub>3</sub>O<sub>4</sub>@NiFe Layered Double Hydroxide Core-Shell Nanostructure](https://doi.org/10.1002/celc.201800194)** *CHEMELECTROCHEM*. [DOI: 10.1002/celc.201800194](https://doi.org/10.1002/celc.201800194)
+- **Charge-transfer-promoted high oxygen evolution activity of Co@ Co9S8 core--shell nanochains** *ACS applied materials & interfaces*.
+- **Improved Electrocatalytic Performance in Overall Water Splitting with Rational Design of Hierarchical Co3O4@ NiFe Layered Double Hydroxide Core-Shell Nanostructure** *ChemElectroChem*.
 - **[Task Based Parallelism with OpenMP: A Case Study with DL-POLY-4](https://doi.org/10.3233/978-1-61499-843-3-497)** *Advances in Parallel Computing*. [DOI: 10.3233/978-1-61499-843-3-497](https://doi.org/10.3233/978-1-61499-843-3-497)
-- **[Well-Dispersed Ruthenium in Mesoporous Crystal TiO<sub>2</sub> as an Advanced Electrocatalyst for Hydrogen Evolution Reaction](https://doi.org/10.1021/jacs.7b13736)** *JOURNAL OF THE AMERICAN CHEMICAL SOCIETY*. [DOI: 10.1021/jacs.7b13736](https://doi.org/10.1021/jacs.7b13736)
+- **Well-dispersed ruthenium in mesoporous crystal TiO2 as an advanced electrocatalyst for hydrogen evolution reaction** *Journal of the American Chemical Society*.
 
 ## 2015
 
-- **[Near-Infrared Light Manipulated Chemoselective Reductions Enabled by an Upconversional Supersandwich Nanostructure](https://doi.org/10.1021/acsami.5b05633)** *ACS APPLIED MATERIALS & INTERFACES*. [DOI: 10.1021/acsami.5b05633](https://doi.org/10.1021/acsami.5b05633)
+- **[Near-infrared light manipulated chemoselective reductions enabled by an upconversional supersandwich nanostructure](https://doi.org/10.1021/acsami.5b05633)** *ACS Applied Materials & Interfaces*. [DOI: 10.1021/acsami.5b05633](https://doi.org/10.1021/acsami.5b05633)
 
 ## 2013
 
@@ -100,3 +101,7 @@
 ## 2005
 
 - **[Automatic generation of matrix element derivatives for tight binding models](https://doi.org/10.1103/physrevb.72.165107)** *Physical Review B - Condensed Matter and Materials Physics*. [DOI: 10.1103/physrevb.72.165107](https://doi.org/10.1103/physrevb.72.165107)
+
+---
+
+Copyright (c) 2026, Alin M. Elena and contributors. Released under the [BSD 3-Clause License](LICENSE).

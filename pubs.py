@@ -1,4 +1,8 @@
-"""Entrypoint redirecting to src/pubs.py."""
+"""Entrypoint redirecting to src/pubs.py.
+
+Copyright (c) 2026, Alin M. Elena and contributors
+Distributed under the terms of the BSD 3-Clause License.
+"""
 import sys
 from pathlib import Path
 

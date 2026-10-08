@@ -1,11 +1,165 @@
 {
   "last-modified-date": {
-    "value": 1772024304691
+    "value": 1791448427661
   },
   "group": [
     {
       "last-modified-date": {
-        "value": 1772024304691
+        "value": 1791448425677
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1103/2j8c-3z3h",
+            "external-id-normalized": {
+              "value": "10.1103/2j8c-3z3h",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1103/2j8c-3z3h"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 211553994,
+          "created-date": {
+            "value": 1776091775853
+          },
+          "last-modified-date": {
+            "value": 1791448425677
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Identify the switching of VO3 and VO4 and its effect on ferroelectric hafnia"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1103/2j8c-3z3h",
+                "external-id-normalized": {
+                  "value": "10.1103/2j8c-3z3h",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1103/2j8c-3z3h"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1103/2j8c-3z3h"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "04"
+            },
+            "day": {
+              "value": "13"
+            }
+          },
+          "journal-title": {
+            "value": "Physical Review B"
+          },
+          "visibility": "public",
+          "path": "/0000-0001-7374-9352/work/211553994",
+          "display-index": "1"
+        },
+        {
+          "put-code": 229127937,
+          "created-date": {
+            "value": 1791448312434
+          },
+          "last-modified-date": {
+            "value": 1791448425677
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0001-7374-9352",
+              "path": "0000-0001-7374-9352",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Junwen Yin"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Identify the switching of VO 3 and VO 4 and its effect on ferroelectric hafnia"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1103/2j8c-3z3h",
+                "external-id-normalized": {
+                  "value": "10.1103/2j8c-3z3h",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1103/2j8c-3z3h"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Physical Review B"
+          },
+          "visibility": "public",
+          "path": "/0000-0001-7374-9352/work/229127937",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1791448427661
       },
       "external-ids": {
         "external-id": [
@@ -31,7 +185,7 @@
             "value": 1772024304691
           },
           "last-modified-date": {
-            "value": 1772024304691
+            "value": 1791448427661
           },
           "source": {
             "source-orcid": null,
@@ -92,12 +246,282 @@
           "visibility": "public",
           "path": "/0000-0001-7374-9352/work/206680672",
           "display-index": "1"
+        },
+        {
+          "put-code": 229127938,
+          "created-date": {
+            "value": 1791448312435
+          },
+          "last-modified-date": {
+            "value": 1791448427661
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0001-7374-9352",
+              "path": "0000-0001-7374-9352",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Junwen Yin"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Opposite impact of thermal expansion and phonon anharmonicity on the phonon-limited resistivity of elemental metals from first principles"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1103/yk57-bt6t",
+                "external-id-normalized": {
+                  "value": "10.1103/yk57-bt6t",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1103/yk57-bt6t"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Physical Review B"
+          },
+          "visibility": "public",
+          "path": "/0000-0001-7374-9352/work/229127938",
+          "display-index": "0"
         }
       ]
     },
     {
       "last-modified-date": {
-        "value": 1761620123590
+        "value": 1791448419012
+      },
+      "external-ids": {
+        "external-id": []
+      },
+      "work-summary": [
+        {
+          "put-code": 229127936,
+          "created-date": {
+            "value": 1791448312434
+          },
+          "last-modified-date": {
+            "value": 1791448419012
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0001-7374-9352",
+              "path": "0000-0001-7374-9352",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Junwen Yin"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "An Efficient On-the-Fly Nonadiabatic Coupling Framework Integrated into CP2K"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": []
+          },
+          "url": null,
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "The Journal of Physical Chemistry Letters"
+          },
+          "visibility": "public",
+          "path": "/0000-0001-7374-9352/work/229127936",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1791448420658
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1039/D5DD00565E",
+            "external-id-normalized": {
+              "value": "10.1039/d5dd00565e",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.1039/D5DD00565E"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 217712082,
+          "created-date": {
+            "value": 1781525716424
+          },
+          "last-modified-date": {
+            "value": 1791448420658
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0001-9884-1913",
+              "path": "0000-0001-9884-1913",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Crossref"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Automatic generation of input files with optimised k-point meshes for Quantum ESPRESSO self-consistent field single-point total energy calculations"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1039/D5DD00565E",
+                "external-id-normalized": {
+                  "value": "10.1039/d5dd00565e",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1039/D5DD00565E"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://doi.org/10.1039/D5DD00565E"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Digital Discovery"
+          },
+          "visibility": "public",
+          "path": "/0000-0001-7374-9352/work/217712082",
+          "display-index": "1"
+        },
+        {
+          "put-code": 229127939,
+          "created-date": {
+            "value": 1791448312435
+          },
+          "last-modified-date": {
+            "value": 1791448420658
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0001-7374-9352",
+              "path": "0000-0001-7374-9352",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Junwen Yin"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Automatic generation of input files with optimised k-point meshes for Quantum ESPRESSO self-consistent field single-point total energy calculations"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1039/D5DD00565E",
+                "external-id-normalized": {
+                  "value": "10.1039/d5dd00565e",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1039/D5DD00565E"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Digital Discovery"
+          },
+          "visibility": "public",
+          "path": "/0000-0001-7374-9352/work/229127939",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1791448380874
       },
       "external-ids": {
         "external-id": [
@@ -123,7 +547,7 @@
             "value": 1761620123590
           },
           "last-modified-date": {
-            "value": 1761620123590
+            "value": 1791448380874
           },
           "source": {
             "source-orcid": null,
@@ -184,62 +608,32 @@
           "visibility": "public",
           "path": "/0000-0001-7374-9352/work/195346828",
           "display-index": "1"
-        }
-      ]
-    },
-    {
-      "last-modified-date": {
-        "value": 1761235050164
-      },
-      "external-ids": {
-        "external-id": [
-          {
-            "external-id-type": "wosuid",
-            "external-id-value": "PPRN:123555794",
-            "external-id-normalized": {
-              "value": "pprn:123555794",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": {
-              "value": "https://www.webofscience.com/wos/pprn/full-record/PPRN:123555794"
-            },
-            "external-id-relationship": "self"
-          }
-        ]
-      },
-      "work-summary": [
+        },
         {
-          "put-code": 195018936,
+          "put-code": 229127929,
           "created-date": {
-            "value": 1761235050164
+            "value": 1791448312428
           },
           "last-modified-date": {
-            "value": 1761235050164
+            "value": 1791448380874
           },
           "source": {
-            "source-orcid": null,
-            "source-client-id": {
-              "uri": "https://orcid.org/client/APP-OKON44OLRIOZU944",
-              "path": "APP-OKON44OLRIOZU944",
-              "host": "orcid.org"
-            },
-            "source-name": {
-              "value": "Web of Science"
-            },
-            "assertion-origin-orcid": {
+            "source-orcid": {
               "uri": "https://orcid.org/0000-0001-7374-9352",
               "path": "0000-0001-7374-9352",
               "host": "orcid.org"
             },
-            "assertion-origin-client-id": null,
-            "assertion-origin-name": {
+            "source-client-id": null,
+            "source-name": {
               "value": "Junwen Yin"
-            }
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
           },
           "title": {
             "title": {
-              "value": "Impact of anharmonicity on the carrier mobility of the Pb-free CsSnBr$_3$ perovskite"
+              "value": "Impact of anharmonicity on the carrier mobility of the Pb-free CsSnBr 3 perovskite"
             },
             "subtitle": null,
             "translated-title": null
@@ -247,15 +641,15 @@
           "external-ids": {
             "external-id": [
               {
-                "external-id-type": "wosuid",
-                "external-id-value": "PPRN:123555794",
+                "external-id-type": "doi",
+                "external-id-value": "10.1103/yssy-5t2v",
                 "external-id-normalized": {
-                  "value": "pprn:123555794",
+                  "value": "10.1103/yssy-5t2v",
                   "transient": true
                 },
                 "external-id-normalized-error": null,
                 "external-id-url": {
-                  "value": "https://www.webofscience.com/wos/pprn/full-record/PPRN:123555794"
+                  "value": "https://doi.org/10.1103/yssy-5t2v"
                 },
                 "external-id-relationship": "self"
               }
@@ -271,17 +665,17 @@
             "day": null
           },
           "journal-title": {
-            "value": "Arxiv"
+            "value": "Physical Review B"
           },
           "visibility": "public",
-          "path": "/0000-0001-7374-9352/work/195018936",
-          "display-index": "1"
+          "path": "/0000-0001-7374-9352/work/229127929",
+          "display-index": "0"
         }
       ]
     },
     {
       "last-modified-date": {
-        "value": 1761235049381
+        "value": 1791448383360
       },
       "external-ids": {
         "external-id": [
@@ -320,7 +714,7 @@
             "value": 1761235049381
           },
           "last-modified-date": {
-            "value": 1761235049381
+            "value": 1791448383360
           },
           "source": {
             "source-orcid": null,
@@ -394,75 +788,32 @@
           "visibility": "public",
           "path": "/0000-0001-7374-9352/work/195018924",
           "display-index": "1"
-        }
-      ]
-    },
-    {
-      "last-modified-date": {
-        "value": 1761235049470
-      },
-      "external-ids": {
-        "external-id": [
-          {
-            "external-id-type": "doi",
-            "external-id-value": "10.1021/ACS.JPCLETT.2C00454",
-            "external-id-normalized": {
-              "value": "10.1021/acs.jpclett.2c00454",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": {
-              "value": "https://doi.org/10.1021/ACS.JPCLETT.2C00454"
-            },
-            "external-id-relationship": "self"
-          },
-          {
-            "external-id-type": "wosuid",
-            "external-id-value": "WOS:000787083700031",
-            "external-id-normalized": {
-              "value": "wos:000787083700031",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": {
-              "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000787083700031"
-            },
-            "external-id-relationship": "self"
-          }
-        ]
-      },
-      "work-summary": [
+        },
         {
-          "put-code": 195018926,
+          "put-code": 229127932,
           "created-date": {
-            "value": 1761235049470
+            "value": 1791448312430
           },
           "last-modified-date": {
-            "value": 1761235049470
+            "value": 1791448383360
           },
           "source": {
-            "source-orcid": null,
-            "source-client-id": {
-              "uri": "https://orcid.org/client/APP-OKON44OLRIOZU944",
-              "path": "APP-OKON44OLRIOZU944",
-              "host": "orcid.org"
-            },
-            "source-name": {
-              "value": "Web of Science"
-            },
-            "assertion-origin-orcid": {
+            "source-orcid": {
               "uri": "https://orcid.org/0000-0001-7374-9352",
               "path": "0000-0001-7374-9352",
               "host": "orcid.org"
             },
-            "assertion-origin-client-id": null,
-            "assertion-origin-name": {
+            "source-client-id": null,
+            "source-name": {
               "value": "Junwen Yin"
-            }
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
           },
           "title": {
             "title": {
-              "value": "The Role of Thermal Fluctuations and Vibrational Entropy: ATheoretical Insight into the\u03b4-to-\u03b1Transition of FAPbI<sub>3</sub>"
+              "value": "Tuning octahedral tilting by doping to prevent detrimental phase transition and extend carrier lifetime in organometallic perovskites"
             },
             "subtitle": null,
             "translated-title": null
@@ -471,27 +822,27 @@
             "external-id": [
               {
                 "external-id-type": "doi",
-                "external-id-value": "10.1021/ACS.JPCLETT.2C00454",
+                "external-id-value": "10.1021/JACS.2C13593",
                 "external-id-normalized": {
-                  "value": "10.1021/acs.jpclett.2c00454",
+                  "value": "10.1021/jacs.2c13593",
                   "transient": true
                 },
                 "external-id-normalized-error": null,
                 "external-id-url": {
-                  "value": "https://doi.org/10.1021/ACS.JPCLETT.2C00454"
+                  "value": "https://doi.org/10.1021/JACS.2C13593"
                 },
                 "external-id-relationship": "self"
               },
               {
                 "external-id-type": "wosuid",
-                "external-id-value": "WOS:000787083700031",
+                "external-id-value": "WOS:000935040300001",
                 "external-id-normalized": {
-                  "value": "wos:000787083700031",
+                  "value": "wos:000935040300001",
                   "transient": true
                 },
                 "external-id-normalized-error": null,
                 "external-id-url": {
-                  "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000787083700031"
+                  "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000935040300001"
                 },
                 "external-id-relationship": "self"
               }
@@ -501,93 +852,59 @@
           "type": "journal-article",
           "publication-date": {
             "year": {
-              "value": "2022"
+              "value": "2023"
             },
             "month": null,
             "day": null
           },
           "journal-title": {
-            "value": "JOURNAL OF PHYSICAL CHEMISTRY LETTERS"
+            "value": "Journal of the American Chemical Society"
           },
           "visibility": "public",
-          "path": "/0000-0001-7374-9352/work/195018926",
-          "display-index": "1"
+          "path": "/0000-0001-7374-9352/work/229127932",
+          "display-index": "0"
         }
       ]
     },
     {
       "last-modified-date": {
-        "value": 1761235049385
+        "value": 1791448388708
       },
       "external-ids": {
-        "external-id": [
-          {
-            "external-id-type": "wosuid",
-            "external-id-value": "PPRN:12042298",
-            "external-id-normalized": {
-              "value": "pprn:12042298",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": {
-              "value": "https://www.webofscience.com/wos/pprn/full-record/PPRN:12042298"
-            },
-            "external-id-relationship": "self"
-          }
-        ]
+        "external-id": []
       },
       "work-summary": [
         {
-          "put-code": 195018925,
+          "put-code": 229127934,
           "created-date": {
-            "value": 1761235049385
+            "value": 1791448312431
           },
           "last-modified-date": {
-            "value": 1761235049385
+            "value": 1791448388708
           },
           "source": {
-            "source-orcid": null,
-            "source-client-id": {
-              "uri": "https://orcid.org/client/APP-OKON44OLRIOZU944",
-              "path": "APP-OKON44OLRIOZU944",
-              "host": "orcid.org"
-            },
-            "source-name": {
-              "value": "Web of Science"
-            },
-            "assertion-origin-orcid": {
+            "source-orcid": {
               "uri": "https://orcid.org/0000-0001-7374-9352",
               "path": "0000-0001-7374-9352",
               "host": "orcid.org"
             },
-            "assertion-origin-client-id": null,
-            "assertion-origin-name": {
+            "source-client-id": null,
+            "source-name": {
               "value": "Junwen Yin"
-            }
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
           },
           "title": {
             "title": {
-              "value": "The role of thermal fluctuations and vibrational entropy for the delta-to-alpha transition in hybrid organic-inorganic perovskites: the FAPbI3 case"
+              "value": "The role of thermal fluctuations and vibrational entropy: A theoretical insight into the $\u03b4$-to-$\u03b1$ transition of FAPbI3"
             },
             "subtitle": null,
             "translated-title": null
           },
           "external-ids": {
-            "external-id": [
-              {
-                "external-id-type": "wosuid",
-                "external-id-value": "PPRN:12042298",
-                "external-id-normalized": {
-                  "value": "pprn:12042298",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": {
-                  "value": "https://www.webofscience.com/wos/pprn/full-record/PPRN:12042298"
-                },
-                "external-id-relationship": "self"
-              }
-            ]
+            "external-id": []
           },
           "url": null,
           "type": "journal-article",
@@ -599,17 +916,17 @@
             "day": null
           },
           "journal-title": {
-            "value": "Arxiv"
+            "value": "The Journal of Physical Chemistry Letters"
           },
           "visibility": "public",
-          "path": "/0000-0001-7374-9352/work/195018925",
-          "display-index": "1"
+          "path": "/0000-0001-7374-9352/work/229127934",
+          "display-index": "0"
         }
       ]
     },
     {
       "last-modified-date": {
-        "value": 1761235049555
+        "value": 1791448391238
       },
       "external-ids": {
         "external-id": [
@@ -648,7 +965,7 @@
             "value": 1761235049555
           },
           "last-modified-date": {
-            "value": 1761235049555
+            "value": 1791448391238
           },
           "source": {
             "source-orcid": null,
@@ -722,12 +1039,87 @@
           "visibility": "public",
           "path": "/0000-0001-7374-9352/work/195018927",
           "display-index": "1"
+        },
+        {
+          "put-code": 229127930,
+          "created-date": {
+            "value": 1791448312429
+          },
+          "last-modified-date": {
+            "value": 1791448391238
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0001-7374-9352",
+              "path": "0000-0001-7374-9352",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Junwen Yin"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Subnano ruthenium species anchored on tin dioxide surface for efficient alkaline hydrogen evolution reaction"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/J.XCRP.2020.100026",
+                "external-id-normalized": {
+                  "value": "10.1016/j.xcrp.2020.100026",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1016/J.XCRP.2020.100026"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "wosuid",
+                "external-id-value": "WOS:000658740500001",
+                "external-id-normalized": {
+                  "value": "wos:000658740500001",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000658740500001"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2020"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Cell Reports Physical Science"
+          },
+          "visibility": "public",
+          "path": "/0000-0001-7374-9352/work/229127930",
+          "display-index": "0"
         }
       ]
     },
     {
       "last-modified-date": {
-        "value": 1761235049641
+        "value": 1791448393490
       },
       "external-ids": {
         "external-id": [
@@ -766,7 +1158,7 @@
             "value": 1761235049641
           },
           "last-modified-date": {
-            "value": 1761235049641
+            "value": 1791448393490
           },
           "source": {
             "source-orcid": null,
@@ -840,12 +1232,87 @@
           "visibility": "public",
           "path": "/0000-0001-7374-9352/work/195018928",
           "display-index": "1"
+        },
+        {
+          "put-code": 229127935,
+          "created-date": {
+            "value": 1791448312431
+          },
+          "last-modified-date": {
+            "value": 1791448393490
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0001-7374-9352",
+              "path": "0000-0001-7374-9352",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Junwen Yin"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "A nanopump for low-temperature and efficient solar water evaporation"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1039/C9TA09281A",
+                "external-id-normalized": {
+                  "value": "10.1039/c9ta09281a",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1039/C9TA09281A"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "wosuid",
+                "external-id-value": "WOS:000494830400019",
+                "external-id-normalized": {
+                  "value": "wos:000494830400019",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000494830400019"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2019"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Journal of Materials Chemistry A"
+          },
+          "visibility": "public",
+          "path": "/0000-0001-7374-9352/work/229127935",
+          "display-index": "0"
         }
       ]
     },
     {
       "last-modified-date": {
-        "value": 1761235049812
+        "value": 1791448395183
       },
       "external-ids": {
         "external-id": [
@@ -884,7 +1351,7 @@
             "value": 1761235049812
           },
           "last-modified-date": {
-            "value": 1761235049812
+            "value": 1791448395183
           },
           "source": {
             "source-orcid": null,
@@ -958,75 +1425,32 @@
           "visibility": "public",
           "path": "/0000-0001-7374-9352/work/195018930",
           "display-index": "1"
-        }
-      ]
-    },
-    {
-      "last-modified-date": {
-        "value": 1761235049727
-      },
-      "external-ids": {
-        "external-id": [
-          {
-            "external-id-type": "doi",
-            "external-id-value": "10.1016/J.PNSC.2019.05.009",
-            "external-id-normalized": {
-              "value": "10.1016/j.pnsc.2019.05.009",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": {
-              "value": "https://doi.org/10.1016/J.PNSC.2019.05.009"
-            },
-            "external-id-relationship": "self"
-          },
-          {
-            "external-id-type": "wosuid",
-            "external-id-value": "WOS:000482877200016",
-            "external-id-normalized": {
-              "value": "wos:000482877200016",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": {
-              "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000482877200016"
-            },
-            "external-id-relationship": "self"
-          }
-        ]
-      },
-      "work-summary": [
+        },
         {
-          "put-code": 195018929,
+          "put-code": 229127927,
           "created-date": {
-            "value": 1761235049727
+            "value": 1791448312425
           },
           "last-modified-date": {
-            "value": 1761235049727
+            "value": 1791448395183
           },
           "source": {
-            "source-orcid": null,
-            "source-client-id": {
-              "uri": "https://orcid.org/client/APP-OKON44OLRIOZU944",
-              "path": "APP-OKON44OLRIOZU944",
-              "host": "orcid.org"
-            },
-            "source-name": {
-              "value": "Web of Science"
-            },
-            "assertion-origin-orcid": {
+            "source-orcid": {
               "uri": "https://orcid.org/0000-0001-7374-9352",
               "path": "0000-0001-7374-9352",
               "host": "orcid.org"
             },
-            "assertion-origin-client-id": null,
-            "assertion-origin-name": {
+            "source-client-id": null,
+            "source-name": {
               "value": "Junwen Yin"
-            }
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
           },
           "title": {
             "title": {
-              "value": "Theoretical and experimental design of Pt-Co(OH)<sub>2</sub> electrocatalyst for efficient HER performance in alkaline solution"
+              "value": "Rational design of ultrasmall Au nanoparticles on Fe via galvanic replacement under- 60\u00b0 C for efficient methanol oxidation reaction catalyst"
             },
             "subtitle": null,
             "translated-title": null
@@ -1035,27 +1459,27 @@
             "external-id": [
               {
                 "external-id-type": "doi",
-                "external-id-value": "10.1016/J.PNSC.2019.05.009",
+                "external-id-value": "10.1021/ACSAEM.8B01494",
                 "external-id-normalized": {
-                  "value": "10.1016/j.pnsc.2019.05.009",
+                  "value": "10.1021/acsaem.8b01494",
                   "transient": true
                 },
                 "external-id-normalized-error": null,
                 "external-id-url": {
-                  "value": "https://doi.org/10.1016/J.PNSC.2019.05.009"
+                  "value": "https://doi.org/10.1021/ACSAEM.8B01494"
                 },
                 "external-id-relationship": "self"
               },
               {
                 "external-id-type": "wosuid",
-                "external-id-value": "WOS:000482877200016",
+                "external-id-value": "WOS:000458706900059",
                 "external-id-normalized": {
-                  "value": "wos:000482877200016",
+                  "value": "wos:000458706900059",
                   "transient": true
                 },
                 "external-id-normalized-error": null,
                 "external-id-url": {
-                  "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000482877200016"
+                  "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000458706900059"
                 },
                 "external-id-relationship": "self"
               }
@@ -1071,113 +1495,111 @@
             "day": null
           },
           "journal-title": {
-            "value": "PROGRESS IN NATURAL SCIENCE-MATERIALS INTERNATIONAL"
+            "value": "ACS Applied Energy Materials"
           },
           "visibility": "public",
-          "path": "/0000-0001-7374-9352/work/195018929",
-          "display-index": "1"
+          "path": "/0000-0001-7374-9352/work/229127927",
+          "display-index": "0"
         }
       ]
     },
     {
       "last-modified-date": {
-        "value": 1761235050071
+        "value": 1791448398426
       },
       "external-ids": {
-        "external-id": [
-          {
-            "external-id-type": "doi",
-            "external-id-value": "10.1021/ACSAMI.7B15890",
-            "external-id-normalized": {
-              "value": "10.1021/acsami.7b15890",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": {
-              "value": "https://doi.org/10.1021/ACSAMI.7B15890"
-            },
-            "external-id-relationship": "self"
-          },
-          {
-            "external-id-type": "wosuid",
-            "external-id-value": "WOS:000430156000020",
-            "external-id-normalized": {
-              "value": "wos:000430156000020",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": {
-              "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000430156000020"
-            },
-            "external-id-relationship": "self"
-          }
-        ]
+        "external-id": []
       },
       "work-summary": [
         {
-          "put-code": 195018934,
+          "put-code": 229127933,
           "created-date": {
-            "value": 1761235050071
+            "value": 1791448312431
           },
           "last-modified-date": {
-            "value": 1761235050071
+            "value": 1791448398426
           },
           "source": {
-            "source-orcid": null,
-            "source-client-id": {
-              "uri": "https://orcid.org/client/APP-OKON44OLRIOZU944",
-              "path": "APP-OKON44OLRIOZU944",
-              "host": "orcid.org"
-            },
-            "source-name": {
-              "value": "Web of Science"
-            },
-            "assertion-origin-orcid": {
+            "source-orcid": {
               "uri": "https://orcid.org/0000-0001-7374-9352",
               "path": "0000-0001-7374-9352",
               "host": "orcid.org"
             },
-            "assertion-origin-client-id": null,
-            "assertion-origin-name": {
+            "source-client-id": null,
+            "source-name": {
               "value": "Junwen Yin"
-            }
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
           },
           "title": {
             "title": {
-              "value": "Charge-Transfer-Promoted High Oxygen Evolution Activity of Co@Co<sub>9</sub>S<sub>8</sub> Core-Shell Nanochains"
+              "value": "Theoretical and experimental design of Pt-Co (OH) 2 electrocatalyst for efficient HER performance in alkaline solution"
             },
             "subtitle": null,
             "translated-title": null
           },
           "external-ids": {
-            "external-id": [
-              {
-                "external-id-type": "doi",
-                "external-id-value": "10.1021/ACSAMI.7B15890",
-                "external-id-normalized": {
-                  "value": "10.1021/acsami.7b15890",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": {
-                  "value": "https://doi.org/10.1021/ACSAMI.7B15890"
-                },
-                "external-id-relationship": "self"
-              },
-              {
-                "external-id-type": "wosuid",
-                "external-id-value": "WOS:000430156000020",
-                "external-id-normalized": {
-                  "value": "wos:000430156000020",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": {
-                  "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000430156000020"
-                },
-                "external-id-relationship": "self"
-              }
-            ]
+            "external-id": []
+          },
+          "url": null,
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2019"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Progress in Natural Science: Materials International"
+          },
+          "visibility": "public",
+          "path": "/0000-0001-7374-9352/work/229127933",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1791448402356
+      },
+      "external-ids": {
+        "external-id": []
+      },
+      "work-summary": [
+        {
+          "put-code": 229127931,
+          "created-date": {
+            "value": 1791448312428
+          },
+          "last-modified-date": {
+            "value": 1791448402356
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0001-7374-9352",
+              "path": "0000-0001-7374-9352",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Junwen Yin"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Charge-transfer-promoted high oxygen evolution activity of Co@ Co9S8 core--shell nanochains"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": []
           },
           "url": null,
           "type": "journal-article",
@@ -1189,113 +1611,53 @@
             "day": null
           },
           "journal-title": {
-            "value": "ACS APPLIED MATERIALS & INTERFACES"
+            "value": "ACS applied materials & interfaces"
           },
           "visibility": "public",
-          "path": "/0000-0001-7374-9352/work/195018934",
-          "display-index": "1"
+          "path": "/0000-0001-7374-9352/work/229127931",
+          "display-index": "0"
         }
       ]
     },
     {
       "last-modified-date": {
-        "value": 1761235049893
+        "value": 1791448405637
       },
       "external-ids": {
-        "external-id": [
-          {
-            "external-id-type": "wosuid",
-            "external-id-value": "WOS:000431974500004",
-            "external-id-normalized": {
-              "value": "wos:000431974500004",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": {
-              "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000431974500004"
-            },
-            "external-id-relationship": "self"
-          },
-          {
-            "external-id-type": "doi",
-            "external-id-value": "10.1002/CELC.201800194",
-            "external-id-normalized": {
-              "value": "10.1002/celc.201800194",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": {
-              "value": "https://doi.org/10.1002/CELC.201800194"
-            },
-            "external-id-relationship": "self"
-          }
-        ]
+        "external-id": []
       },
       "work-summary": [
         {
-          "put-code": 195018931,
+          "put-code": 229127926,
           "created-date": {
-            "value": 1761235049893
+            "value": 1791448312425
           },
           "last-modified-date": {
-            "value": 1761235049893
+            "value": 1791448405637
           },
           "source": {
-            "source-orcid": null,
-            "source-client-id": {
-              "uri": "https://orcid.org/client/APP-OKON44OLRIOZU944",
-              "path": "APP-OKON44OLRIOZU944",
-              "host": "orcid.org"
-            },
-            "source-name": {
-              "value": "Web of Science"
-            },
-            "assertion-origin-orcid": {
+            "source-orcid": {
               "uri": "https://orcid.org/0000-0001-7374-9352",
               "path": "0000-0001-7374-9352",
               "host": "orcid.org"
             },
-            "assertion-origin-client-id": null,
-            "assertion-origin-name": {
+            "source-client-id": null,
+            "source-name": {
               "value": "Junwen Yin"
-            }
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
           },
           "title": {
             "title": {
-              "value": "Improved Electrocatalytic Performance in Overall Water Splitting with Rational Design of Hierarchical Co<sub>3</sub>O<sub>4</sub>@NiFe Layered Double Hydroxide Core-Shell Nanostructure"
+              "value": "Improved Electrocatalytic Performance in Overall Water Splitting with Rational Design of Hierarchical Co3O4@ NiFe Layered Double Hydroxide Core-Shell Nanostructure"
             },
             "subtitle": null,
             "translated-title": null
           },
           "external-ids": {
-            "external-id": [
-              {
-                "external-id-type": "doi",
-                "external-id-value": "10.1002/CELC.201800194",
-                "external-id-normalized": {
-                  "value": "10.1002/celc.201800194",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": {
-                  "value": "https://doi.org/10.1002/CELC.201800194"
-                },
-                "external-id-relationship": "self"
-              },
-              {
-                "external-id-type": "wosuid",
-                "external-id-value": "WOS:000431974500004",
-                "external-id-normalized": {
-                  "value": "wos:000431974500004",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": {
-                  "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000431974500004"
-                },
-                "external-id-relationship": "self"
-              }
-            ]
+            "external-id": []
           },
           "url": null,
           "type": "journal-article",
@@ -1307,113 +1669,53 @@
             "day": null
           },
           "journal-title": {
-            "value": "CHEMELECTROCHEM"
+            "value": "ChemElectroChem"
           },
           "visibility": "public",
-          "path": "/0000-0001-7374-9352/work/195018931",
-          "display-index": "1"
+          "path": "/0000-0001-7374-9352/work/229127926",
+          "display-index": "0"
         }
       ]
     },
     {
       "last-modified-date": {
-        "value": 1761235049977
+        "value": 1791448408786
       },
       "external-ids": {
-        "external-id": [
-          {
-            "external-id-type": "doi",
-            "external-id-value": "10.1021/JACS.7B13736",
-            "external-id-normalized": {
-              "value": "10.1021/jacs.7b13736",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": {
-              "value": "https://doi.org/10.1021/JACS.7B13736"
-            },
-            "external-id-relationship": "self"
-          },
-          {
-            "external-id-type": "wosuid",
-            "external-id-value": "WOS:000431600000013",
-            "external-id-normalized": {
-              "value": "wos:000431600000013",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": {
-              "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000431600000013"
-            },
-            "external-id-relationship": "self"
-          }
-        ]
+        "external-id": []
       },
       "work-summary": [
         {
-          "put-code": 195018933,
+          "put-code": 229127928,
           "created-date": {
-            "value": 1761235049977
+            "value": 1791448312427
           },
           "last-modified-date": {
-            "value": 1761235049977
+            "value": 1791448408786
           },
           "source": {
-            "source-orcid": null,
-            "source-client-id": {
-              "uri": "https://orcid.org/client/APP-OKON44OLRIOZU944",
-              "path": "APP-OKON44OLRIOZU944",
-              "host": "orcid.org"
-            },
-            "source-name": {
-              "value": "Web of Science"
-            },
-            "assertion-origin-orcid": {
+            "source-orcid": {
               "uri": "https://orcid.org/0000-0001-7374-9352",
               "path": "0000-0001-7374-9352",
               "host": "orcid.org"
             },
-            "assertion-origin-client-id": null,
-            "assertion-origin-name": {
+            "source-client-id": null,
+            "source-name": {
               "value": "Junwen Yin"
-            }
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
           },
           "title": {
             "title": {
-              "value": "Well-Dispersed Ruthenium in Mesoporous Crystal TiO<sub>2</sub> as an Advanced Electrocatalyst for Hydrogen Evolution Reaction"
+              "value": "Well-dispersed ruthenium in mesoporous crystal TiO2 as an advanced electrocatalyst for hydrogen evolution reaction"
             },
             "subtitle": null,
             "translated-title": null
           },
           "external-ids": {
-            "external-id": [
-              {
-                "external-id-type": "doi",
-                "external-id-value": "10.1021/JACS.7B13736",
-                "external-id-normalized": {
-                  "value": "10.1021/jacs.7b13736",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": {
-                  "value": "https://doi.org/10.1021/JACS.7B13736"
-                },
-                "external-id-relationship": "self"
-              },
-              {
-                "external-id-type": "wosuid",
-                "external-id-value": "WOS:000431600000013",
-                "external-id-normalized": {
-                  "value": "wos:000431600000013",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": {
-                  "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000431600000013"
-                },
-                "external-id-relationship": "self"
-              }
-            ]
+            "external-id": []
           },
           "url": null,
           "type": "journal-article",
@@ -1425,17 +1727,17 @@
             "day": null
           },
           "journal-title": {
-            "value": "JOURNAL OF THE AMERICAN CHEMICAL SOCIETY"
+            "value": "Journal of the American Chemical Society"
           },
           "visibility": "public",
-          "path": "/0000-0001-7374-9352/work/195018933",
-          "display-index": "1"
+          "path": "/0000-0001-7374-9352/work/229127928",
+          "display-index": "0"
         }
       ]
     },
     {
       "last-modified-date": {
-        "value": 1761235050160
+        "value": 1791448411779
       },
       "external-ids": {
         "external-id": [
@@ -1474,7 +1776,7 @@
             "value": 1761235050160
           },
           "last-modified-date": {
-            "value": 1761235050160
+            "value": 1791448411779
           },
           "source": {
             "source-orcid": null,
@@ -1548,6 +1850,81 @@
           "visibility": "public",
           "path": "/0000-0001-7374-9352/work/195018935",
           "display-index": "1"
+        },
+        {
+          "put-code": 229127925,
+          "created-date": {
+            "value": 1791448312424
+          },
+          "last-modified-date": {
+            "value": 1791448411779
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0001-7374-9352",
+              "path": "0000-0001-7374-9352",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Junwen Yin"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Near-infrared light manipulated chemoselective reductions enabled by an upconversional supersandwich nanostructure"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1021/ACSAMI.5B05633",
+                "external-id-normalized": {
+                  "value": "10.1021/acsami.5b05633",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1021/ACSAMI.5B05633"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "wosuid",
+                "external-id-value": "WOS:000360868700063",
+                "external-id-normalized": {
+                  "value": "wos:000360868700063",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000360868700063"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2015"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "ACS Applied Materials & Interfaces"
+          },
+          "visibility": "public",
+          "path": "/0000-0001-7374-9352/work/229127925",
+          "display-index": "0"
         }
       ]
     }

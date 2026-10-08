@@ -28,6 +28,20 @@
     ]
   },
   {
+    "title": "An Efficient On-the-Fly Nonadiabatic Coupling Framework Integrated into CP2K",
+    "year": "2026",
+    "journal": "The Journal of Physical Chemistry Letters",
+    "doi": null,
+    "url": null,
+    "type": "journal-article",
+    "authors": [
+      "Junwen Yin"
+    ],
+    "orcids": [
+      "0000-0001-7374-9352"
+    ]
+  },
+  {
     "title": "Automatic generation of input files with optimised k-point meshes for Quantum ESPRESSO self-consistent field single-point total energy calculations",
     "year": "2026",
     "journal": "Digital Discovery",
@@ -35,10 +49,12 @@
     "url": "https://doi.org/10.1039/d5dd00565e",
     "type": "journal-article",
     "authors": [
-      "Alin Marin Elena"
+      "Alin Marin Elena",
+      "Junwen Yin"
     ],
     "orcids": [
-      "0000-0002-7013-6670"
+      "0000-0002-7013-6670",
+      "0000-0001-7374-9352"
     ]
   },
   {
@@ -126,11 +142,25 @@
     ]
   },
   {
+    "title": "Identify the switching of VO 3 and VO 4 and its effect on ferroelectric hafnia",
+    "year": "2026",
+    "journal": "Physical Review B",
+    "doi": "10.1103/2j8c-3z3h",
+    "url": "https://doi.org/10.1103/2j8c-3z3h",
+    "type": "journal-article",
+    "authors": [
+      "Junwen Yin"
+    ],
+    "orcids": [
+      "0000-0001-7374-9352"
+    ]
+  },
+  {
     "title": "MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry",
     "year": "2026",
     "journal": null,
     "doi": "10.48550/arxiv.2602.19411",
-    "url": "https://arxiv.org/abs/2602.19411",
+    "url": "https://doi.org/10.48550/arxiv.2602.19411",
     "type": "journal-article",
     "authors": [
       "Alin Marin Elena",
@@ -270,21 +300,7 @@
     ]
   },
   {
-    "title": "Impact of anharmonicity on the carrier mobility of the Pb-free CsSnBr$_3$ perovskite",
-    "year": "2025",
-    "journal": "Arxiv",
-    "doi": null,
-    "url": "https://www.webofscience.com/wos/pprn/full-record/PPRN:123555794",
-    "type": "journal-article",
-    "authors": [
-      "Junwen Yin"
-    ],
-    "orcids": [
-      "0000-0001-7374-9352"
-    ]
-  },
-  {
-    "title": "Impact of anharmonicity on the carrier mobility of the Pb-free CsSnBr3 perovskite",
+    "title": "Impact of anharmonicity on the carrier mobility of the Pb-free CsSnBr 3 perovskite",
     "year": "2025",
     "journal": "Physical Review B",
     "doi": "10.1103/yssy-5t2v",
@@ -480,9 +496,9 @@
     ]
   },
   {
-    "title": "Tuning Octahedral Tilting by Doping to Prevent Detrimental Phase Transition and Extend Carrier Lifetime in Organometallic Perovskites",
+    "title": "Tuning octahedral tilting by doping to prevent detrimental phase transition and extend carrier lifetime in organometallic perovskites",
     "year": "2023",
-    "journal": "JOURNAL OF THE AMERICAN CHEMICAL SOCIETY",
+    "journal": "Journal of the American Chemical Society",
     "doi": "10.1021/jacs.2c13593",
     "url": "https://doi.org/10.1021/jacs.2c13593",
     "type": "journal-article",
@@ -522,25 +538,11 @@
     ]
   },
   {
-    "title": "The role of thermal fluctuations and vibrational entropy for the delta-to-alpha transition in hybrid organic-inorganic perovskites: the FAPbI3 case",
+    "title": "The role of thermal fluctuations and vibrational entropy: A theoretical insight into the $δ$-to-$α$ transition of FAPbI3",
     "year": "2022",
-    "journal": "Arxiv",
+    "journal": "The Journal of Physical Chemistry Letters",
     "doi": null,
-    "url": "https://www.webofscience.com/wos/pprn/full-record/PPRN:12042298",
-    "type": "journal-article",
-    "authors": [
-      "Junwen Yin"
-    ],
-    "orcids": [
-      "0000-0001-7374-9352"
-    ]
-  },
-  {
-    "title": "The Role of Thermal Fluctuations and Vibrational Entropy: ATheoretical Insight into theδ-to-αTransition of FAPbI<sub>3</sub>",
-    "year": "2022",
-    "journal": "JOURNAL OF PHYSICAL CHEMISTRY LETTERS",
-    "doi": "10.1021/acs.jpclett.2c00454",
-    "url": "https://doi.org/10.1021/acs.jpclett.2c00454",
+    "url": null,
     "type": "journal-article",
     "authors": [
       "Junwen Yin"
@@ -648,9 +650,9 @@
     ]
   },
   {
-    "title": "Subnano Ruthenium Species Anchored on Tin Dioxide Surface for Efficient Alkaline Hydrogen Evolution Reaction",
+    "title": "Subnano ruthenium species anchored on tin dioxide surface for efficient alkaline hydrogen evolution reaction",
     "year": "2020",
-    "journal": "CELL REPORTS PHYSICAL SCIENCE",
+    "journal": "Cell Reports Physical Science",
     "doi": "10.1016/j.xcrp.2020.100026",
     "url": "https://doi.org/10.1016/j.xcrp.2020.100026",
     "type": "journal-article",
@@ -678,7 +680,7 @@
   {
     "title": "A nanopump for low-temperature and efficient solar water evaporation",
     "year": "2019",
-    "journal": "JOURNAL OF MATERIALS CHEMISTRY A",
+    "journal": "Journal of Materials Chemistry A",
     "doi": "10.1039/c9ta09281a",
     "url": "https://doi.org/10.1039/c9ta09281a",
     "type": "journal-article",
@@ -690,9 +692,9 @@
     ]
   },
   {
-    "title": "Rational Design of Ultrasmall Au Nanoparticles on Fe via Galvanic Replacement Under-60 °C for Efficient Methanol Oxidation Reaction Catalyst",
+    "title": "Rational design of ultrasmall Au nanoparticles on Fe via galvanic replacement under- 60° C for efficient methanol oxidation reaction catalyst",
     "year": "2019",
-    "journal": "ACS APPLIED ENERGY MATERIALS",
+    "journal": "ACS Applied Energy Materials",
     "doi": "10.1021/acsaem.8b01494",
     "url": "https://doi.org/10.1021/acsaem.8b01494",
     "type": "journal-article",
@@ -718,11 +720,11 @@
     ]
   },
   {
-    "title": "Theoretical and experimental design of Pt-Co(OH)<sub>2</sub> electrocatalyst for efficient HER performance in alkaline solution",
+    "title": "Theoretical and experimental design of Pt-Co (OH) 2 electrocatalyst for efficient HER performance in alkaline solution",
     "year": "2019",
-    "journal": "PROGRESS IN NATURAL SCIENCE-MATERIALS INTERNATIONAL",
-    "doi": "10.1016/j.pnsc.2019.05.009",
-    "url": "https://doi.org/10.1016/j.pnsc.2019.05.009",
+    "journal": "Progress in Natural Science: Materials International",
+    "doi": null,
+    "url": null,
     "type": "journal-article",
     "authors": [
       "Junwen Yin"
@@ -732,11 +734,11 @@
     ]
   },
   {
-    "title": "Charge-Transfer-Promoted High Oxygen Evolution Activity of Co@Co<sub>9</sub>S<sub>8</sub> Core-Shell Nanochains",
+    "title": "Charge-transfer-promoted high oxygen evolution activity of Co@ Co9S8 core--shell nanochains",
     "year": "2018",
-    "journal": "ACS APPLIED MATERIALS & INTERFACES",
-    "doi": "10.1021/acsami.7b15890",
-    "url": "https://doi.org/10.1021/acsami.7b15890",
+    "journal": "ACS applied materials & interfaces",
+    "doi": null,
+    "url": null,
     "type": "journal-article",
     "authors": [
       "Junwen Yin"
@@ -746,11 +748,11 @@
     ]
   },
   {
-    "title": "Improved Electrocatalytic Performance in Overall Water Splitting with Rational Design of Hierarchical Co<sub>3</sub>O<sub>4</sub>@NiFe Layered Double Hydroxide Core-Shell Nanostructure",
+    "title": "Improved Electrocatalytic Performance in Overall Water Splitting with Rational Design of Hierarchical Co3O4@ NiFe Layered Double Hydroxide Core-Shell Nanostructure",
     "year": "2018",
-    "journal": "CHEMELECTROCHEM",
-    "doi": "10.1002/celc.201800194",
-    "url": "https://doi.org/10.1002/celc.201800194",
+    "journal": "ChemElectroChem",
+    "doi": null,
+    "url": null,
     "type": "journal-article",
     "authors": [
       "Junwen Yin"
@@ -774,11 +776,11 @@
     ]
   },
   {
-    "title": "Well-Dispersed Ruthenium in Mesoporous Crystal TiO<sub>2</sub> as an Advanced Electrocatalyst for Hydrogen Evolution Reaction",
+    "title": "Well-dispersed ruthenium in mesoporous crystal TiO2 as an advanced electrocatalyst for hydrogen evolution reaction",
     "year": "2018",
-    "journal": "JOURNAL OF THE AMERICAN CHEMICAL SOCIETY",
-    "doi": "10.1021/jacs.7b13736",
-    "url": "https://doi.org/10.1021/jacs.7b13736",
+    "journal": "Journal of the American Chemical Society",
+    "doi": null,
+    "url": null,
     "type": "journal-article",
     "authors": [
       "Junwen Yin"
@@ -788,9 +790,9 @@
     ]
   },
   {
-    "title": "Near-Infrared Light Manipulated Chemoselective Reductions Enabled by an Upconversional Supersandwich Nanostructure",
+    "title": "Near-infrared light manipulated chemoselective reductions enabled by an upconversional supersandwich nanostructure",
     "year": "2015",
-    "journal": "ACS APPLIED MATERIALS & INTERFACES",
+    "journal": "ACS Applied Materials & Interfaces",
     "doi": "10.1021/acsami.5b05633",
     "url": "https://doi.org/10.1021/acsami.5b05633",
     "type": "journal-article",
