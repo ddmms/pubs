@@ -35,12 +35,10 @@
     "url": "https://doi.org/10.1039/d5dd00565e",
     "type": "journal-article",
     "authors": [
-      "Alin Marin Elena",
-      "Gilberto Teobaldi"
+      "Alin Marin Elena"
     ],
     "orcids": [
-      "0000-0002-7013-6670",
-      "0000-0001-6068-6786"
+      "0000-0002-7013-6670"
     ]
   },
   {
@@ -86,20 +84,6 @@
     ]
   },
   {
-    "title": "Electric and Photovoltaic Switching by Ionic Migration with a Magnetic Record",
-    "year": "2026",
-    "journal": "ACS Applied Materials &amp; Interfaces",
-    "doi": "10.1021/acsami.6c02910",
-    "url": "https://doi.org/10.1021/acsami.6c02910",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Fine-tuning MLIP foundation models: strategies for accuracy and transferability",
     "year": "2026",
     "journal": "arXiv preprint arXiv:2606.12704",
@@ -142,20 +126,6 @@
     ]
   },
   {
-    "title": "Identify the switching of\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:msub>\n                        <mml:mi>V</mml:mi>\n                        <mml:mrow>\n                          <mml:mi mathvariant=\"normal\">O</mml:mi>\n                          <mml:mn>3</mml:mn>\n                        </mml:mrow>\n                      </mml:msub>\n                    </mml:math>\n                    and\n                    <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\">\n                      <mml:msub>\n                        <mml:mi>V</mml:mi>\n                        <mml:mrow>\n                          <mml:mi mathvariant=\"normal\">O</mml:mi>\n                          <mml:mn>4</mml:mn>\n                        </mml:mrow>\n                      </mml:msub>\n                    </mml:math>\n                    and its effect on ferroelectric hafnia",
-    "year": "2026",
-    "journal": "Physical Review B",
-    "doi": "10.1103/2j8c-3z3h",
-    "url": "https://doi.org/10.1103/2j8c-3z3h",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry",
     "year": "2026",
     "journal": null,
@@ -172,20 +142,6 @@
     ]
   },
   {
-    "title": "Non-Arrhenius threshold switching by field-driven dipolar ordering",
-    "year": "2026",
-    "journal": "Nature Communications",
-    "doi": "10.1038/s41467-026-72970-z",
-    "url": "https://doi.org/10.1038/s41467-026-72970-z",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Opposite impact of thermal expansion and phonon anharmonicity on the phonon-limited resistivity of elemental metals from first principles",
     "year": "2026",
     "journal": "Physical Review B",
@@ -197,20 +153,6 @@
     ],
     "orcids": [
       "0000-0001-7374-9352"
-    ]
-  },
-  {
-    "title": "Realizing ultrafast Li-ion transport through electronegative nanochannels for high-rate lithium metal battery",
-    "year": "2026",
-    "journal": "Nano Energy",
-    "doi": "10.1016/j.nanoen.2026.112012",
-    "url": "https://doi.org/10.1016/j.nanoen.2026.112012",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
     ]
   },
   {
@@ -256,34 +198,6 @@
     ]
   },
   {
-    "title": "Unravelling the role of additives in the structure of non-aqueous media at the electrode surface under potential control",
-    "year": "2026",
-    "journal": "Faraday Discussions",
-    "doi": "10.1039/d5fd00118h",
-    "url": "https://doi.org/10.1039/d5fd00118h",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Voltage-driven evolution of lithium nanoparticle morphology and SEI precursors",
-    "year": "2026",
-    "journal": "Journal of Materials Chemistry A",
-    "doi": "10.1039/d5ta09820c",
-    "url": "https://doi.org/10.1039/d5ta09820c",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "A foundation model for atomistic materials chemistry",
     "year": "2025",
     "journal": "The Journal of Chemical Physics",
@@ -295,62 +209,6 @@
     ],
     "orcids": [
       "0000-0002-7013-6670"
-    ]
-  },
-  {
-    "title": "Acceptor–Donor Molecular Heterojunction Control of π-Orbital-Induced Magnetic Properties of a 3d Ferromagnet",
-    "year": "2025",
-    "journal": "Nano Letters",
-    "doi": "10.1021/acs.nanolett.5c03762",
-    "url": "https://doi.org/10.1021/acs.nanolett.5c03762",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Amorphization-Induced Electronic Modulation of Gd(OH)<sub>3</sub> Nanocages with Enhanced Enzymatic Activities for Antitumor Therapy",
-    "year": "2025",
-    "journal": "Journal of the American Chemical Society",
-    "doi": "10.1021/jacs.5c09591",
-    "url": "https://doi.org/10.1021/jacs.5c09591",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Amorphous monolayer CuPd catalysts for selective semi-hydrogenation",
-    "year": "2025",
-    "journal": "Science Advances",
-    "doi": "10.1126/sciadv.adx8081",
-    "url": "https://doi.org/10.1126/sciadv.adx8081",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Carbon Dioxide Electroreduction on Gold without Metal or Organic Cations",
-    "year": "2025",
-    "journal": "ACS Catalysis",
-    "doi": "10.1021/acscatal.5c02785",
-    "url": "https://doi.org/10.1021/acscatal.5c02785",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
     ]
   },
   {
@@ -440,20 +298,6 @@
     ]
   },
   {
-    "title": "Low‐Energy, Ultrafast Spin Reorientation at Competing Hybrid Interfaces with Tunable Operating Temperature",
-    "year": "2025",
-    "journal": "Advanced Materials",
-    "doi": "10.1002/adma.202419192",
-    "url": "https://doi.org/10.1002/adma.202419192",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Machine learned potential for high-throughput phonon calculations of metal—organic frameworks",
     "year": "2025",
     "journal": "Npj Computational Materials",
@@ -468,20 +312,6 @@
     ]
   },
   {
-    "title": "Mapping of the full polarization switching pathways for HfO\n            <sub>2</sub>\n            and its implications",
-    "year": "2025",
-    "journal": "Proceedings of the National Academy of Sciences",
-    "doi": "10.1073/pnas.2419685122",
-    "url": "https://doi.org/10.1073/pnas.2419685122",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Modelling silica using MACE-MP machine learnt interatomic potentials",
     "year": "2025",
     "journal": "Physical Chemistry Chemical Physics Pccp",
@@ -493,76 +323,6 @@
     ],
     "orcids": [
       "0000-0002-7013-6670"
-    ]
-  },
-  {
-    "title": "On the Prospect of Enhancing the Adhesion Strength at Metal–Organic Interfaces via Tensile Strain",
-    "year": "2025",
-    "journal": "ACS Applied Engineering Materials",
-    "doi": "10.1021/acsaenm.4c00836",
-    "url": "https://doi.org/10.1021/acsaenm.4c00836",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Physical origin of depolarization effects in \n<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\"><mml:msub><mml:mi>HfO</mml:mi><mml:mn>2</mml:mn></mml:msub></mml:math>\n films",
-    "year": "2025",
-    "journal": "Physical Review Materials",
-    "doi": "10.1103/7sxy-lgz8",
-    "url": "https://doi.org/10.1103/7sxy-lgz8",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Revealing the Ferroelectric Fatigue Pathways in HfO₂ Film",
-    "year": "2025",
-    "journal": "Small Methods",
-    "doi": "10.1002/smtd.202402176",
-    "url": "https://doi.org/10.1002/smtd.202402176",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Spin-Polarized Nonferromagnetic Surfaces for Electrocatalysis: Chemo-Spintronics",
-    "year": "2025",
-    "journal": "Journal of the American Chemical Society",
-    "doi": "10.1021/jacs.5c16824",
-    "url": "https://doi.org/10.1021/jacs.5c16824",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "The role of primary and secondary electrons in scanning transmission electron microscopy of hybrid perovskites: the CsPbBr$_{3}$ case.",
-    "year": "2025",
-    "journal": "Materials Advances",
-    "doi": "10.1039/d5ma00141b",
-    "url": "https://doi.org/10.1039/d5ma00141b",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
     ]
   },
   {
@@ -608,62 +368,6 @@
     ]
   },
   {
-    "title": "Adaptive kinetic Monte Carlo analysis of healing mechanisms in radiation damaged pyrochlore Gd2Ti2O7.",
-    "year": "2024",
-    "journal": "Acta Materialia",
-    "doi": "10.1016/j.actamat.2024.119726",
-    "url": "https://doi.org/10.1016/j.actamat.2024.119726",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Amorphous Bismuth–Tin Oxide Nanosheets with Optimized C–N Coupling for Efficient Urea Synthesis",
-    "year": "2024",
-    "journal": "Journal of the American Chemical Society",
-    "doi": "10.1021/jacs.4c03156",
-    "url": "https://doi.org/10.1021/jacs.4c03156",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Atomically thin Ag nanosheets for single-molecule SERS detection of BPF",
-    "year": "2024",
-    "journal": "Chem",
-    "doi": "10.1016/j.chempr.2024.06.020",
-    "url": "https://doi.org/10.1016/j.chempr.2024.06.020",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Circumventing the Theoretical Scaling Relation Limit for the Oxygen Evolution Reaction",
-    "year": "2024",
-    "journal": "The Journal of Physical Chemistry Letters",
-    "doi": "10.1021/acs.jpclett.4c00201",
-    "url": "https://doi.org/10.1021/acs.jpclett.4c00201",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Controlling nanocluster growth through nanoconfinement: the effect of the number and nature of metal-organic framework functionalities",
     "year": "2024",
     "journal": "Physical Chemistry Chemical Physics",
@@ -678,62 +382,6 @@
     ]
   },
   {
-    "title": "Distribution of high valence Fe sites in nickel-iron hydroxide catalysts for water oxidation",
-    "year": "2024",
-    "journal": "Journal of Materials Chemistry A",
-    "doi": "10.1039/d3ta06632k",
-    "url": "https://doi.org/10.1039/d3ta06632k",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "High-Valence Cu Induced by Photoelectric Reconstruction for Dynamically Stable Oxygen Evolution Sites",
-    "year": "2024",
-    "journal": "Journal of the American Chemical Society",
-    "doi": "10.1021/jacs.4c04975",
-    "url": "https://doi.org/10.1021/jacs.4c04975",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Minimum Tracking Linear Response Hubbard and Hund Corrected Density Functional Theory in CP2K",
-    "year": "2024",
-    "journal": "Journal of Chemical Theory and Computation",
-    "doi": "10.1021/acs.jctc.4c00964",
-    "url": "https://doi.org/10.1021/acs.jctc.4c00964",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Optimizing Molecular Passivation in MAPbI<sub>3</sub> Perovskites: Impact of Dipole Moments and Structural Parameters",
-    "year": "2024",
-    "journal": "The Journal of Physical Chemistry Letters",
-    "doi": "10.1021/acs.jpclett.4c02965",
-    "url": "https://doi.org/10.1021/acs.jpclett.4c02965",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Performance of the MACE-MP-0 potential for calculating viscosity in LiF molten salt.",
     "year": "2024",
     "journal": "arXiv",
@@ -745,48 +393,6 @@
     ],
     "orcids": [
       "0000-0002-7013-6670"
-    ]
-  },
-  {
-    "title": "Phase Stability and Phase Transition Pathways in the Rhombohedral Phase of HfO<sub>2</sub>",
-    "year": "2024",
-    "journal": "The Journal of Physical Chemistry Letters",
-    "doi": "10.1021/acs.jpclett.4c02019",
-    "url": "https://doi.org/10.1021/acs.jpclett.4c02019",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Physical Origin of Hafnium-based Ferroelectricity",
-    "year": "2024",
-    "journal": "Computational Materials Today",
-    "doi": "10.1016/j.commt.2024.100010",
-    "url": "https://doi.org/10.1016/j.commt.2024.100010",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Recent progress in amorphous nanomaterials for electrochemical synthesis of N-containing compounds",
-    "year": "2024",
-    "journal": "Chem Catalysis",
-    "doi": "10.1016/j.checat.2023.100871",
-    "url": "https://doi.org/10.1016/j.checat.2023.100871",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
     ]
   },
   {
@@ -818,104 +424,6 @@
     ]
   },
   {
-    "title": "A compact photoreactor for automated H2 photoproduction: Revisiting the (Pd, Pt, Au)/TiO2 (P25) Schottky junctions",
-    "year": "2023",
-    "journal": "Chemical Engineering Journal",
-    "doi": "10.1016/j.cej.2023.141514",
-    "url": "https://doi.org/10.1016/j.cej.2023.141514",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "A Hybrid Magneto‐Optic Capacitive Memory with Picosecond Writing Time",
-    "year": "2023",
-    "journal": "Advanced Functional Materials",
-    "doi": "10.1002/adfm.202212173",
-    "url": "https://doi.org/10.1002/adfm.202212173",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Activating Bi p‐orbitals in Dispersed Clusters of Amorphous BiOx for Electrocatalytic Nitrogen Reduction",
-    "year": "2023",
-    "journal": "Angewandte Chemie International Edition",
-    "doi": "10.1002/anie.202217428",
-    "url": "https://doi.org/10.1002/anie.202217428",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "ALC˙EQCM: Automated stoichiometric resolution in electrochemistry through Density Functional Theory aided, Electrochemical Quartz Crystal Microbalance",
-    "year": "2023",
-    "journal": "Computational Materials Science",
-    "doi": "10.1016/j.commatsci.2022.111968",
-    "url": "https://doi.org/10.1016/j.commatsci.2022.111968",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Dynamical Screening of Local Spin Moments at Metal–Molecule Interfaces",
-    "year": "2023",
-    "journal": "ACS Nano",
-    "doi": "10.1021/acsnano.3c00247",
-    "url": "https://doi.org/10.1021/acsnano.3c00247",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Efficient C–N coupling in the direct synthesis of urea from CO\n            <sub>2</sub>\n            and N\n            <sub>2</sub>\n            by amorphous Sb\n            <sub>x</sub>\n            Bi\n            <sub>1-x</sub>\n            O\n            <sub>y</sub>\n            clusters",
-    "year": "2023",
-    "journal": "Proceedings of the National Academy of Sciences",
-    "doi": "10.1073/pnas.2306841120",
-    "url": "https://doi.org/10.1073/pnas.2306841120",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Electrostatics of metallic surfaces in periodic density functional theory simulations within and beyond the linear response regime",
-    "year": "2023",
-    "journal": "Physical Review B",
-    "doi": "10.1103/physrevb.108.165423",
-    "url": "https://doi.org/10.1103/physrevb.108.165423",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Experimental and Modeling Studies of Local and Nanoscale para-Cresol Behavior: A Comparison of Classical Force Fields",
     "year": "2023",
     "journal": "Journal of Physical Chemistry A",
@@ -944,20 +452,6 @@
     ]
   },
   {
-    "title": "Imogolite Nanotubes and Their Permanently Polarized Bifunctional Surfaces for Photocatalytic Hydrogen Production",
-    "year": "2023",
-    "journal": "Global Challenges",
-    "doi": "10.1002/gch2.202300255",
-    "url": "https://doi.org/10.1002/gch2.202300255",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Interactive molecular dynamics in virtual reality for modelling materials and catalysts",
     "year": "2023",
     "journal": "Journal of Molecular Graphics and Modelling",
@@ -969,20 +463,6 @@
     ],
     "orcids": [
       "0000-0002-7013-6670"
-    ]
-  },
-  {
-    "title": "Magnetohydrodynamic Redeposition of Cations Onto the Anode",
-    "year": "2023",
-    "journal": "ECS Meeting Abstracts",
-    "doi": "10.1149/ma2023-02201235mtgabs",
-    "url": "https://doi.org/10.1149/ma2023-02201235mtgabs",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
     ]
   },
   {
@@ -1000,34 +480,6 @@
     ]
   },
   {
-    "title": "Parallel Nanosheet Arrays for Industrial Oxygen Production",
-    "year": "2023",
-    "journal": "Journal of the American Chemical Society",
-    "doi": "10.1021/jacs.3c05688",
-    "url": "https://doi.org/10.1021/jacs.3c05688",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Polaron-assisted nonadiabatic dynamics in protonated TiO2 with surface water molecule",
-    "year": "2023",
-    "journal": "ChemPhysMater",
-    "doi": "10.1016/j.chphma.2023.02.005",
-    "url": "https://doi.org/10.1016/j.chphma.2023.02.005",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Tuning Octahedral Tilting by Doping to Prevent Detrimental Phase Transition and Extend Carrier Lifetime in Organometallic Perovskites",
     "year": "2023",
     "journal": "JOURNAL OF THE AMERICAN CHEMICAL SOCIETY",
@@ -1035,12 +487,10 @@
     "url": "https://doi.org/10.1021/jacs.2c13593",
     "type": "journal-article",
     "authors": [
-      "Junwen Yin",
-      "Gilberto Teobaldi"
+      "Junwen Yin"
     ],
     "orcids": [
-      "0000-0001-7374-9352",
-      "0000-0001-6068-6786"
+      "0000-0001-7374-9352"
     ]
   },
   {
@@ -1051,12 +501,10 @@
     "url": "https://doi.org/10.1063/5.0089043",
     "type": "journal-article",
     "authors": [
-      "Alin Marin Elena",
-      "Gilberto Teobaldi"
+      "Alin Marin Elena"
     ],
     "orcids": [
-      "0000-0002-7013-6670",
-      "0000-0001-6068-6786"
+      "0000-0002-7013-6670"
     ]
   },
   {
@@ -1071,34 +519,6 @@
     ],
     "orcids": [
       "0000-0002-7013-6670"
-    ]
-  },
-  {
-    "title": "Nonadiabatic Dynamics of Polaron Hopping and Coupling with Water on Reduced TiO2",
-    "year": "2022",
-    "journal": "The Journal of Physical Chemistry Letters",
-    "doi": "10.1021/acs.jpclett.1c04231",
-    "url": "https://doi.org/10.1021/acs.jpclett.1c04231",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "The role of permanent and induced electrostatic dipole moments for Schottky barriers in Janus MXY/graphene heterostructures: a first-principles study",
-    "year": "2022",
-    "journal": "Dalton Transactions",
-    "doi": "10.1039/d2dt00584k",
-    "url": "https://doi.org/10.1039/d2dt00584k",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
     ]
   },
   {
@@ -1123,40 +543,10 @@
     "url": "https://doi.org/10.1021/acs.jpclett.2c00454",
     "type": "journal-article",
     "authors": [
-      "Junwen Yin",
-      "Gilberto Teobaldi"
+      "Junwen Yin"
     ],
     "orcids": [
-      "0000-0001-7374-9352",
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Amorphous Domains in Black Titanium Dioxide.",
-    "year": "2021",
-    "journal": "Advanced materials (Deerfield Beach, Fla.)",
-    "doi": "10.1002/adma.202100407",
-    "url": "https://doi.org/10.1002/adma.202100407",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Combined Role of Biaxial Strain and Nonstoichiometry for the Electronic, Magnetic, and Redox Properties of Lithiated Metal-Oxide Films: The LiMn2O4 Case",
-    "year": "2021",
-    "journal": "ACS Applied Materials & Interfaces",
-    "doi": "10.1021/acsami.1c18326",
-    "url": "https://doi.org/10.1021/acsami.1c18326",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
+      "0000-0001-7374-9352"
     ]
   },
   {
@@ -1171,34 +561,6 @@
     ],
     "orcids": [
       "0000-0002-7013-6670"
-    ]
-  },
-  {
-    "title": "Enhanced Spin–Orbit Coupling in Heavy Metals via Molecular Coupling",
-    "year": "2021",
-    "journal": "ACS Applied Materials & Interfaces",
-    "doi": "10.1021/acsami.0c19403",
-    "url": "https://doi.org/10.1021/acsami.0c19403",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Observation of a molecular muonium polaron and its application to probing magnetic and electronic states",
-    "year": "2021",
-    "journal": "Phys. Rev. B",
-    "doi": "10.1103/physrevb.104.064429",
-    "url": "https://doi.org/10.1103/physrevb.104.064429",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
     ]
   },
   {
@@ -1230,20 +592,6 @@
     ]
   },
   {
-    "title": "Recent Advances in Low-Dimensional Janus Materials: a Theory and Simulation Perspective",
-    "year": "2021",
-    "journal": "Materials Advances",
-    "doi": "10.1039/d1ma00660f",
-    "url": "https://doi.org/10.1039/d1ma00660f",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Similar patterns of tropical precipitation and circulation changes under solar and greenhouse gas forcing",
     "year": "2021",
     "journal": "Environmental Research Letters",
@@ -1255,34 +603,6 @@
     ],
     "orcids": [
       "0009-0005-2015-9478"
-    ]
-  },
-  {
-    "title": "Structure and Oxygen Evolution Activity of β-NiOOH: Where Are the Protons?",
-    "year": "2021",
-    "journal": "ACS Catalysis",
-    "doi": "10.1021/acscatal.1c04647",
-    "url": "https://doi.org/10.1021/acscatal.1c04647",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Subspace Occupancy-Constraining Potentials for Modeling Polaron Formation",
-    "year": "2021",
-    "journal": "The Journal of Physical Chemistry C",
-    "doi": "10.1021/acs.jpcc.1c07709",
-    "url": "https://doi.org/10.1021/acs.jpcc.1c07709",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
     ]
   },
   {
@@ -1300,76 +620,6 @@
     ]
   },
   {
-    "title": "The Combined Role of Faceting and Heteroatom Doping for Hydrogen Evolution on a WC Electrocatalyst in Aqueous Solution: A Density Functional Theory Study",
-    "year": "2021",
-    "journal": "The Journal of Physical Chemistry C",
-    "doi": "10.1021/acs.jpcc.0c11104",
-    "url": "https://doi.org/10.1021/acs.jpcc.0c11104",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "The unique carrier mobility of Janus MoSSe/GaN heterostructures",
-    "year": "2021",
-    "journal": "Frontiers of Physics",
-    "doi": "10.1007/s11467-020-1021-1",
-    "url": "https://doi.org/10.1007/s11467-020-1021-1",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "The unique carrier mobility of monolayer Janus MoSSe nanoribbons: a first-principles study",
-    "year": "2021",
-    "journal": "Dalton Transactions",
-    "doi": "10.1039/d1dt01121a",
-    "url": "https://doi.org/10.1039/d1dt01121a",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Activity and Selectivity of CO2 Photoreduction on Catalytic Materials",
-    "year": "2020",
-    "journal": "Dalton Transactions",
-    "doi": "10.1039/d0dt02651d",
-    "url": "https://doi.org/10.1039/d0dt02651d",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Effect of crystal field on the formation and diffusion of oxygen vacancy at anatase (101) surface and sub-surface",
-    "year": "2020",
-    "journal": "Progress in Natural Science: Materials International",
-    "doi": "10.1016/j.pnsc.2020.01.001",
-    "url": "https://doi.org/10.1016/j.pnsc.2020.01.001",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Evolution of amorphous structure under irradiation: Zircon case study",
     "year": "2020",
     "journal": "Journal of Physics Condensed Matter",
@@ -1381,20 +631,6 @@
     ],
     "orcids": [
       "0000-0002-7013-6670"
-    ]
-  },
-  {
-    "title": "Quantitative Resolution of Complex Stoichiometric Changes during Electrochemical Cycling by Density Functional Theory-Assisted Electrochemical Quartz Crystal Microbalance",
-    "year": "2020",
-    "journal": "ACS Applied Energy Materials",
-    "doi": "10.1021/acsaem.9b02386",
-    "url": "https://doi.org/10.1021/acsaem.9b02386",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
     ]
   },
   {
@@ -1412,34 +648,6 @@
     ]
   },
   {
-    "title": "Reversible spin storage in metal oxide-fullerene heterojunctions",
-    "year": "2020",
-    "journal": "Science Advances",
-    "doi": "10.1126/sciadv.aax1085",
-    "url": "https://doi.org/10.1126/sciadv.aax1085",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Solid wetting-layers in inorganic nano-reactors: The water in imogolite nanotube case",
-    "year": "2020",
-    "journal": "Nanoscale Advances",
-    "doi": "10.1039/d0na00128g",
-    "url": "https://doi.org/10.1039/d0na00128g",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Subnano Ruthenium Species Anchored on Tin Dioxide Surface for Efficient Alkaline Hydrogen Evolution Reaction",
     "year": "2020",
     "journal": "CELL REPORTS PHYSICAL SCIENCE",
@@ -1454,20 +662,6 @@
     ]
   },
   {
-    "title": "Termination Effects in Aluminosilicate and Aluminogermanate Imogolite Nanotubes: A Density Functional Theory Study",
-    "year": "2020",
-    "journal": "Crystals",
-    "doi": "10.3390/cryst10111051",
-    "url": "https://doi.org/10.3390/cryst10111051",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "The CECAM electronic structure library and the modular software development paradigm",
     "year": "2020",
     "journal": "Journal of Chemical Physics",
@@ -1479,76 +673,6 @@
     ],
     "orcids": [
       "0000-0002-7013-6670"
-    ]
-  },
-  {
-    "title": "The ONETEP linear-scaling density functional theory program",
-    "year": "2020",
-    "journal": "The Journal of chemical physics",
-    "doi": "10.1063/5.0004445",
-    "url": "https://doi.org/10.1063/5.0004445",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "The Oxygen Vacancy in Li-ion Battery Cathode Materials",
-    "year": "2020",
-    "journal": "Nanoscale Horizons",
-    "doi": "10.1039/d0nh00340a",
-    "url": "https://doi.org/10.1039/d0nh00340a",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Water-Hydrogen-Polaron Coupling at Anatase TiO<inf>2</inf>(101) Surfaces: A Hybrid Density Functional Theory Study",
-    "year": "2020",
-    "journal": "The journal of physical chemistry letters",
-    "doi": "10.1021/acs.jpclett.0c00917",
-    "url": "https://doi.org/10.1021/acs.jpclett.0c00917",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Work Function Evolution in Li Anode Processing",
-    "year": "2020",
-    "journal": "Advanced Energy Materials",
-    "doi": "10.1002/aenm.202000520",
-    "url": "https://doi.org/10.1002/aenm.202000520",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "π-anisotropy: A nanocarbon route to hard magnetism",
-    "year": "2020",
-    "journal": "Physical Review B",
-    "doi": "10.1103/physrevb.101.060408",
-    "url": "https://doi.org/10.1103/physrevb.101.060408",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
     ]
   },
   {
@@ -1594,34 +718,6 @@
     ]
   },
   {
-    "title": "The role of cation-vacancies for the electronic and optical properties of aluminosilicate imogolite nanotubes: A non-local, linear-response TDDFT study",
-    "year": "2019",
-    "journal": "Frontiers in Chemistry",
-    "doi": "10.3389/fchem.2019.00210",
-    "url": "https://doi.org/10.3389/fchem.2019.00210",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "The role of isotropic and anisotropic Hubbard corrections for the magnetic ordering and absolute band alignment of hematite α-Fe<inf>2</inf>O<inf>3</inf>(0001) surfaces",
-    "year": "2019",
-    "journal": "Progress in Natural Science: Materials International",
-    "doi": "10.1016/j.pnsc.2019.05.010",
-    "url": "https://doi.org/10.1016/j.pnsc.2019.05.010",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Theoretical and experimental design of Pt-Co(OH)<sub>2</sub> electrocatalyst for efficient HER performance in alkaline solution",
     "year": "2019",
     "journal": "PROGRESS IN NATURAL SCIENCE-MATERIALS INTERNATIONAL",
@@ -1650,20 +746,6 @@
     ]
   },
   {
-    "title": "Detection of catalytic intermediates at an electrode surface during carbon dioxide reduction by an earth-abundant catalyst",
-    "year": "2018",
-    "journal": "Nature Catalysis",
-    "doi": "10.1038/s41929-018-0169-3",
-    "url": "https://doi.org/10.1038/s41929-018-0169-3",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Improved Electrocatalytic Performance in Overall Water Splitting with Rational Design of Hierarchical Co<sub>3</sub>O<sub>4</sub>@NiFe Layered Double Hydroxide Core-Shell Nanostructure",
     "year": "2018",
     "journal": "CHEMELECTROCHEM",
@@ -1675,20 +757,6 @@
     ],
     "orcids": [
       "0000-0001-7374-9352"
-    ]
-  },
-  {
-    "title": "Structural resolution of inorganic nanotubes with complex stoichiometry",
-    "year": "2018",
-    "journal": "Nature Communications",
-    "doi": "10.1038/s41467-018-04360-z",
-    "url": "https://doi.org/10.1038/s41467-018-04360-z",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
     ]
   },
   {
@@ -1720,174 +788,6 @@
     ]
   },
   {
-    "title": "Chemically Selective Alternatives to Photoferroelectrics for Polarization-Enhanced Photocatalysis: The Untapped Potential of Hybrid Inorganic Nanotubes",
-    "year": "2017",
-    "journal": "Advanced Science",
-    "doi": "10.1002/advs.201600153",
-    "url": "https://doi.org/10.1002/advs.201600153",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Emergent magnetism at transition-metal–nanocarbon interfaces",
-    "year": "2017",
-    "journal": "Proceedings of the National Academy of Sciences of USA",
-    "doi": null,
-    "url": "http://www.pnas.org/content/early/2017/05/10/1620216114.abstract?tab=author-info",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Role of Metal Lattice Expansion and Molecular π-Conjugation for the Magnetic Hardening at Cu-Organics Interfaces",
-    "year": "2017",
-    "journal": "Journal of Physical Chemistry C",
-    "doi": "10.1021/acs.jpcc.7b08476",
-    "url": "https://doi.org/10.1021/acs.jpcc.7b08476",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Inapplicability of exact constraints and a minimal two-parameter generalization to the DFT+ U based correction of self-interaction error",
-    "year": "2016",
-    "journal": "Physical Review B",
-    "doi": "10.1103/physrevb.94.220104",
-    "url": "https://doi.org/10.1103/physrevb.94.220104",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Optimization of constrained density functional theory",
-    "year": "2016",
-    "journal": "Physical Review B",
-    "doi": "10.1103/physrevb.94.035159",
-    "url": "https://doi.org/10.1103/physrevb.94.035159",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Supercell convergence of charge-transfer energies in pentacene molecular crystals from constrained DFT",
-    "year": "2016",
-    "journal": "Physical Review B",
-    "doi": "10.1103/physrevb.93.165102",
-    "url": "https://doi.org/10.1103/physrevb.93.165102",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "The potential of imogolite nanotubes as (co-)photocatalysts: A linear-scaling density functional theory study",
-    "year": "2016",
-    "journal": "Journal of Physics Condensed Matter",
-    "doi": "10.1088/0953-8984/28/7/074003",
-    "url": "https://doi.org/10.1088/0953-8984/28/7/074003",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Variation in surface energy and reduction drive of a metal oxide lithium-ion anode with stoichiometry: A DFT study of lithium titanate spinel surfaces",
-    "year": "2016",
-    "journal": "Journal of Materials Chemistry A",
-    "doi": "10.1039/c6ta05980e",
-    "url": "https://doi.org/10.1039/c6ta05980e",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "(Sub)surface-Promoted Disproportionation and Absolute Band Alignment in High-Power LiMn<inf>2</inf>O<inf>4</inf> Cathodes",
-    "year": "2015",
-    "journal": "Journal of Physical Chemistry C",
-    "doi": "10.1021/acs.jpcc.5b06522",
-    "url": "https://doi.org/10.1021/acs.jpcc.5b06522",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Beating the Stoner criterion using molecular interfaces",
-    "year": "2015",
-    "journal": "Nature",
-    "doi": "10.1038/nature14621",
-    "url": "https://doi.org/10.1038/nature14621",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Density functional theory screening of gas-treatment strategies for stabilization of high energy-density lithium metal anodes",
-    "year": "2015",
-    "journal": "Journal of Power Sources",
-    "doi": "10.1016/j.jpowsour.2015.07.027",
-    "url": "https://doi.org/10.1016/j.jpowsour.2015.07.027",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Large-scale density functional theory simulation of inorganic nanotubes: A case study on Imogolite nanotubes",
-    "year": "2015",
-    "journal": "Materials Research Innovations",
-    "doi": "10.1179/1432891715z.0000000001560",
-    "url": "https://doi.org/10.1179/1432891715z.0000000001560",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Near-Infrared Light Manipulated Chemoselective Reductions Enabled by an Upconversional Supersandwich Nanostructure",
     "year": "2015",
     "journal": "ACS APPLIED MATERIALS & INTERFACES",
@@ -1899,48 +799,6 @@
     ],
     "orcids": [
       "0000-0001-7374-9352"
-    ]
-  },
-  {
-    "title": "What is the orientation of the tip in a scanning tunneling microscope?",
-    "year": "2015",
-    "journal": "Progress in Surface Science",
-    "doi": "10.1016/j.progsurf.2015.02.001",
-    "url": "https://doi.org/10.1016/j.progsurf.2015.02.001",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Contrast stability and 'stripe' formation in scanning tunnelling microscopy imaging of highly oriented pyrolytic graphite: The role of STM-tip orientations",
-    "year": "2014",
-    "journal": "Journal of Physics Condensed Matter",
-    "doi": "10.1088/0953-8984/26/48/485007",
-    "url": "https://doi.org/10.1088/0953-8984/26/48/485007",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Spin-polarized electron transfer in ferromagnet/C60 interfaces",
-    "year": "2014",
-    "journal": "Physical Review B - Condensed Matter and Materials Physics",
-    "doi": "10.1103/physrevb.90.125311",
-    "url": "https://doi.org/10.1103/physrevb.90.125311",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
     ]
   },
   {
@@ -1958,160 +816,6 @@
     ]
   },
   {
-    "title": "Role of applied bias and tip electronic structure in the scanning tunneling microscopy imaging of highly oriented pyrolytic graphite",
-    "year": "2012",
-    "journal": "Physical Review B - Condensed Matter and Materials Physics",
-    "doi": "10.1103/physrevb.85.085433",
-    "url": "https://doi.org/10.1103/physrevb.85.085433",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Scanning tunneling microscopy contrast mechanisms for TiO <inf>2</inf>",
-    "year": "2012",
-    "journal": "Physical Review Letters",
-    "doi": "10.1103/physrevlett.109.156105",
-    "url": "https://doi.org/10.1103/physrevlett.109.156105",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Chemical resolution at ionic crystal surfaces using dynamic atomic force microscopy with metallic tips",
-    "year": "2011",
-    "journal": "Physical Review Letters",
-    "doi": "10.1103/physrevlett.106.216102",
-    "url": "https://doi.org/10.1103/physrevlett.106.216102",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Polymorphism and isomerisation of an azobenzene derivative on gold",
-    "year": "2011",
-    "journal": "Chemical Communications",
-    "doi": "10.1039/c1cc12522b",
-    "url": "https://doi.org/10.1039/c1cc12522b",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "The effect of temperature on the internal dynamics of dansylated POPAM dendrimers",
-    "year": "2011",
-    "journal": "RSC Advances",
-    "doi": "10.1039/c1ra00625h",
-    "url": "https://doi.org/10.1039/c1ra00625h",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Electron traps and their effect on the surface chemistry of TiO <inf>2</inf>(110)",
-    "year": "2010",
-    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-    "doi": "10.1073/pnas.0911349107",
-    "url": "https://doi.org/10.1073/pnas.0911349107",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Internal dynamics and energy transfer in dansylated POPAM dendrimers and their eosin complexes",
-    "year": "2010",
-    "journal": "Journal of Physical Chemistry B",
-    "doi": "10.1021/jp902906q",
-    "url": "https://doi.org/10.1021/jp902906q",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Structure and properties of surface and subsurface defects in graphite accounting for van der Waals and spin-polarization effects",
-    "year": "2010",
-    "journal": "Physical Review B - Condensed Matter and Materials Physics",
-    "doi": "10.1103/physrevb.82.174104",
-    "url": "https://doi.org/10.1103/physrevb.82.174104",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "The effect of van der Waals interactions on the properties of intrinsic defects in graphite",
-    "year": "2010",
-    "journal": "Carbon",
-    "doi": "10.1016/j.carbon.2010.07.029",
-    "url": "https://doi.org/10.1016/j.carbon.2010.07.029",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Theory of Scanning Tunneling Microscopy and Applications in Catalysis",
-    "year": "2010",
-    "journal": "Scanning Tunneling Microscopy in Surface Science, Nanoscience and Catalysis",
-    "doi": "10.1002/9783527628827.ch4",
-    "url": "https://doi.org/10.1002/9783527628827.ch4",
-    "type": "book",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Hydroxyl vacancies in single-walled aluminosilicate and aluminogermanate nanotubes",
-    "year": "2009",
-    "journal": "Journal of Physics Condensed Matter",
-    "doi": "10.1088/0953-8984/21/19/195301",
-    "url": "https://doi.org/10.1088/0953-8984/21/19/195301",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Ring currents in azulene",
     "year": "2009",
     "journal": "Chemical Physics Letters",
@@ -2126,174 +830,6 @@
     ]
   },
   {
-    "title": "Adsorption of benzene, fluorobenzene and meta-di-fluorobenzene on Cu(110): A computational study",
-    "year": "2008",
-    "journal": "Journal of Computational Chemistry",
-    "doi": "10.1002/jcc.20916",
-    "url": "https://doi.org/10.1002/jcc.20916",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Cadiot-Chodkiewicz active template synthesis of rotaxanes and switchable molecular shuttles with weak intercomponent interactions",
-    "year": "2008",
-    "journal": "Angewandte Chemie - International Edition",
-    "doi": "10.1002/anie.200800891",
-    "url": "https://doi.org/10.1002/anie.200800891",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Creating pseudo-Kondo resonances by field-induced diffusion of atomic hydrogen",
-    "year": "2008",
-    "journal": "Nanotechnology",
-    "doi": "10.1088/0957-4484/19/30/305701",
-    "url": "https://doi.org/10.1088/0957-4484/19/30/305701",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Geometric structure of TiO2(011)(2×1)",
-    "year": "2008",
-    "journal": "Physical Review Letters",
-    "doi": "10.1103/physrevlett.101.185501",
-    "url": "https://doi.org/10.1103/physrevlett.101.185501",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Ab-initio calculations and STM observations on tetrapyridyl and Fe(II)-tetrapyridyl-porphyrin molecules on Ag(1 1 1)",
-    "year": "2007",
-    "journal": "Surface Science",
-    "doi": "10.1016/j.susc.2007.03.040",
-    "url": "https://doi.org/10.1016/j.susc.2007.03.040",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Adsorption of organic molecules on gold electrodes",
-    "year": "2007",
-    "journal": "Journal of Physical Chemistry C",
-    "doi": "10.1021/jp074017g",
-    "url": "https://doi.org/10.1021/jp074017g",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "C<inf>60</inf> on gold: Adsorption, motion, and viscosity",
-    "year": "2007",
-    "journal": "Small",
-    "doi": "10.1002/smll.200700111",
-    "url": "https://doi.org/10.1002/smll.200700111",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Detection of spin-states in Mn-doped gallium arsenide films",
-    "year": "2007",
-    "journal": "Nanotechnology",
-    "doi": "10.1088/0957-4484/18/4/044006",
-    "url": "https://doi.org/10.1088/0957-4484/18/4/044006",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Extremely strong and readily accessible AAA-DDD triple hydrogen bond complexes",
-    "year": "2007",
-    "journal": "Journal of the American Chemical Society",
-    "doi": "10.1021/ja067410t",
-    "url": "https://doi.org/10.1021/ja067410t",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Including the probe tip in theoretical models of inelastic scanning tunneling spectroscopy: CO on Cu(100)",
-    "year": "2007",
-    "journal": "Physical Review B - Condensed Matter and Materials Physics",
-    "doi": "10.1103/physrevb.76.235407",
-    "url": "https://doi.org/10.1103/physrevb.76.235407",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Modelling STM images of TiO<inf>2</inf>(1 1 0) from first-principles: Defects, water adsorption and dissociation products",
-    "year": "2007",
-    "journal": "Chemical Physics Letters",
-    "doi": "10.1016/j.cplett.2007.01.068",
-    "url": "https://doi.org/10.1016/j.cplett.2007.01.068",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Self-assembly of semifluorinated n -alkanethiols on {111}-oriented Au investigated with scanning tunneling microscopy experiment and theory",
-    "year": "2007",
-    "journal": "Journal of Chemical Physics",
-    "doi": "10.1063/1.2746252",
-    "url": "https://doi.org/10.1063/1.2746252",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
     "title": "Automatic generation of matrix element derivatives for tight binding models",
     "year": "2005",
     "journal": "Physical Review B - Condensed Matter and Materials Physics",
@@ -2305,118 +841,6 @@
     ],
     "orcids": [
       "0000-0002-7013-6670"
-    ]
-  },
-  {
-    "title": "Macroscopic transport by synthetic molecular machines",
-    "year": "2005",
-    "journal": "Nature Materials",
-    "doi": "10.1038/nmat1455",
-    "url": "https://doi.org/10.1038/nmat1455",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Simulation of some dynamical aspects of the photophysics of dye molecules encapsulated in a dendrimer",
-    "year": "2005",
-    "journal": "Journal of Luminescence",
-    "doi": "10.1016/j.jlumin.2004.10.013",
-    "url": "https://doi.org/10.1016/j.jlumin.2004.10.013",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Understanding the cosolvation effect of dendrimers",
-    "year": "2005",
-    "journal": "Journal of Chemical Theory and Computation",
-    "doi": "10.1021/ct0499332",
-    "url": "https://doi.org/10.1021/ct0499332",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "A generic basis for some simple light-operated mechanical molecular machines",
-    "year": "2004",
-    "journal": "Journal of the American Chemical Society",
-    "doi": "10.1021/ja0484193",
-    "url": "https://doi.org/10.1021/ja0484193",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Modelling of the adsorption of C<inf>60</inf> on the Au(110) surface",
-    "year": "2004",
-    "journal": "ChemPhysChem",
-    "doi": "10.1002/cphc.200300936",
-    "url": "https://doi.org/10.1002/cphc.200300936",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Kinetics of place-exchange reactions of thiols on gold nanoparticles",
-    "year": "2003",
-    "journal": "Langmuir",
-    "doi": "10.1021/la034581s",
-    "url": "https://doi.org/10.1021/la034581s",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Modeling the adsorption of alkanes on an Au(111) surface",
-    "year": "2003",
-    "journal": "Langmuir",
-    "doi": "10.1021/la034773n",
-    "url": "https://doi.org/10.1021/la034773n",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
-    ]
-  },
-  {
-    "title": "Molecular dynamics of a dendrimer - Dye guest - Host system",
-    "year": "2003",
-    "journal": "Journal of the American Chemical Society",
-    "doi": "10.1021/ja027905s",
-    "url": "https://doi.org/10.1021/ja027905s",
-    "type": "journal-article",
-    "authors": [
-      "Gilberto Teobaldi"
-    ],
-    "orcids": [
-      "0000-0001-6068-6786"
     ]
   }
 ]
