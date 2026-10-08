@@ -37,6 +37,7 @@
                     and its effect on ferroelectric hafnia](https://doi.org/10.1103/2j8c-3z3h)** *Physical Review B*. [DOI: 10.1103/2j8c-3z3h](https://doi.org/10.1103/2j8c-3z3h)
 - **[MACE-POLAR-1: A Polarisable Electrostatic Foundation Model for Molecular Chemistry](https://arxiv.org/abs/2602.19411)** [DOI: 10.48550/arxiv.2602.19411](https://doi.org/10.48550/arxiv.2602.19411)
 - **[Non-Arrhenius threshold switching by field-driven dipolar ordering](https://doi.org/10.1038/s41467-026-72970-z)** *Nature Communications*. [DOI: 10.1038/s41467-026-72970-z](https://doi.org/10.1038/s41467-026-72970-z)
+- **[Opposite impact of thermal expansion and phonon anharmonicity on the phonon-limited resistivity of elemental metals from first principles](https://doi.org/10.1103/yk57-bt6t)** *Physical Review B*. [DOI: 10.1103/yk57-bt6t](https://doi.org/10.1103/yk57-bt6t)
 - **[Realizing ultrafast Li-ion transport through electronegative nanochannels for high-rate lithium metal battery](https://doi.org/10.1016/j.nanoen.2026.112012)** *Nano Energy*. [DOI: 10.1016/j.nanoen.2026.112012](https://doi.org/10.1016/j.nanoen.2026.112012)
 - **Scalar-pathway fidelity improves physical accuracy in short-range equivariant interatomic potentials** *arXiv preprint arXiv:2606.15892*.
 - **Scientific applications of quantum computing: challenges and opportunities** *arXiv preprint arXiv:2608.16568*.
@@ -55,6 +56,8 @@
 - **[Equilibrium isotope fractionation in carbonate minerals: Role of Mg-Ca distribution and thermal effects](https://doi.org/10.1016/j.gca.2025.01.031)** *Geochimica et Cosmochimica Acta*. [DOI: 10.1016/j.gca.2025.01.031](https://doi.org/10.1016/j.gca.2025.01.031)
 - **[FTorch - lowering the technical barrier of incorporating ML into Fortran models](https://doi.org/10.5194/egusphere-egu24-17852)** [DOI: 10.5194/egusphere-egu24-17852](https://doi.org/10.5194/egusphere-egu24-17852)
 - **[FTorch: a library for coupling PyTorch models to Fortran](https://doi.org/10.21105/joss.07602)** *Journal of Open Source Software*. [DOI: 10.21105/joss.07602](https://doi.org/10.21105/joss.07602)
+- **[Impact of anharmonicity on the carrier mobility of the Pb-free CsSnBr$_3$ perovskite](https://www.webofscience.com/wos/pprn/full-record/PPRN:123555794)** *Arxiv*.
+- **[Impact of anharmonicity on the carrier mobility of the Pb-free CsSnBr3 perovskite](https://doi.org/10.1103/yssy-5t2v)** *Physical Review B*. [DOI: 10.1103/yssy-5t2v](https://doi.org/10.1103/yssy-5t2v)
 - **[Low‐Energy, Ultrafast Spin Reorientation at Competing Hybrid Interfaces with Tunable Operating Temperature](https://doi.org/10.1002/adma.202419192)** *Advanced Materials*. [DOI: 10.1002/adma.202419192](https://doi.org/10.1002/adma.202419192)
 - **[Machine learned potential for high-throughput phonon calculations of metal—organic frameworks](https://doi.org/10.1038/s41524-025-01611-8)** *Npj Computational Materials*. [DOI: 10.1038/s41524-025-01611-8](https://doi.org/10.1038/s41524-025-01611-8)
 - **[Mapping of the full polarization switching pathways for HfO
@@ -117,7 +120,7 @@
 - **[Matter-antimatter rearrangements using the R-matrix method](https://doi.org/10.3389/fphy.2023.1187537)** *Frontiers in Physics*. [DOI: 10.3389/fphy.2023.1187537](https://doi.org/10.3389/fphy.2023.1187537)
 - **[Parallel Nanosheet Arrays for Industrial Oxygen Production](https://doi.org/10.1021/jacs.3c05688)** *Journal of the American Chemical Society*. [DOI: 10.1021/jacs.3c05688](https://doi.org/10.1021/jacs.3c05688)
 - **[Polaron-assisted nonadiabatic dynamics in protonated TiO2 with surface water molecule](https://doi.org/10.1016/j.chphma.2023.02.005)** *ChemPhysMater*. [DOI: 10.1016/j.chphma.2023.02.005](https://doi.org/10.1016/j.chphma.2023.02.005)
-- **[Tuning Octahedral Tilting by Doping to Prevent Detrimental Phase Transition and Extend Carrier Lifetime in Organometallic Perovskites](https://doi.org/10.1021/jacs.2c13593)** *Journal of the American Chemical Society*. [DOI: 10.1021/jacs.2c13593](https://doi.org/10.1021/jacs.2c13593)
+- **[Tuning Octahedral Tilting by Doping to Prevent Detrimental Phase Transition and Extend Carrier Lifetime in Organometallic Perovskites](https://doi.org/10.1021/jacs.2c13593)** *JOURNAL OF THE AMERICAN CHEMICAL SOCIETY*. [DOI: 10.1021/jacs.2c13593](https://doi.org/10.1021/jacs.2c13593)
 
 ## 2022
 
@@ -125,7 +128,8 @@
 - **[Materials and Molecular Modeling at the Exascale](https://doi.org/10.1109/mcse.2022.3141328)** *Computing in Science and Engineering*. [DOI: 10.1109/mcse.2022.3141328](https://doi.org/10.1109/mcse.2022.3141328)
 - **[Nonadiabatic Dynamics of Polaron Hopping and Coupling with Water on Reduced TiO2](https://doi.org/10.1021/acs.jpclett.1c04231)** *The Journal of Physical Chemistry Letters*. [DOI: 10.1021/acs.jpclett.1c04231](https://doi.org/10.1021/acs.jpclett.1c04231)
 - **[The role of permanent and induced electrostatic dipole moments for Schottky barriers in Janus MXY/graphene heterostructures: a first-principles study](https://doi.org/10.1039/d2dt00584k)** *Dalton Transactions*. [DOI: 10.1039/d2dt00584k](https://doi.org/10.1039/d2dt00584k)
-- **[The Role of Thermal Fluctuations and Vibrational Entropy: A Theoretical Insight into the δ-to-α Transition of FAPbI<sub>3</sub>](https://doi.org/10.1021/acs.jpclett.2c00454)** *The Journal of Physical Chemistry Letters*. [DOI: 10.1021/acs.jpclett.2c00454](https://doi.org/10.1021/acs.jpclett.2c00454)
+- **[The role of thermal fluctuations and vibrational entropy for the delta-to-alpha transition in hybrid organic-inorganic perovskites: the FAPbI3 case](https://www.webofscience.com/wos/pprn/full-record/PPRN:12042298)** *Arxiv*.
+- **[The Role of Thermal Fluctuations and Vibrational Entropy: ATheoretical Insight into theδ-to-αTransition of FAPbI<sub>3</sub>](https://doi.org/10.1021/acs.jpclett.2c00454)** *JOURNAL OF PHYSICAL CHEMISTRY LETTERS*. [DOI: 10.1021/acs.jpclett.2c00454](https://doi.org/10.1021/acs.jpclett.2c00454)
 
 ## 2021
 
@@ -154,6 +158,7 @@
 - **[Reactive Molecular Dynamics at Constant Pressure via Nonreactive Force Fields: Extending the Empirical Valence Bond Method to the Isothermal-Isobaric Ensemble](https://doi.org/10.1021/acs.jpca.0c05461)** *Journal of Physical Chemistry A*. [DOI: 10.1021/acs.jpca.0c05461](https://doi.org/10.1021/acs.jpca.0c05461)
 - **[Reversible spin storage in metal oxide-fullerene heterojunctions](https://doi.org/10.1126/sciadv.aax1085)** *Science Advances*. [DOI: 10.1126/sciadv.aax1085](https://doi.org/10.1126/sciadv.aax1085)
 - **[Solid wetting-layers in inorganic nano-reactors: The water in imogolite nanotube case](https://doi.org/10.1039/d0na00128g)** *Nanoscale Advances*. [DOI: 10.1039/d0na00128g](https://doi.org/10.1039/d0na00128g)
+- **[Subnano Ruthenium Species Anchored on Tin Dioxide Surface for Efficient Alkaline Hydrogen Evolution Reaction](https://doi.org/10.1016/j.xcrp.2020.100026)** *CELL REPORTS PHYSICAL SCIENCE*. [DOI: 10.1016/j.xcrp.2020.100026](https://doi.org/10.1016/j.xcrp.2020.100026)
 - **[Termination Effects in Aluminosilicate and Aluminogermanate Imogolite Nanotubes: A Density Functional Theory Study](https://doi.org/10.3390/cryst10111051)** *Crystals*. [DOI: 10.3390/cryst10111051](https://doi.org/10.3390/cryst10111051)
 - **[The CECAM electronic structure library and the modular software development paradigm](https://doi.org/10.1063/5.0012901)** *Journal of Chemical Physics*. [DOI: 10.1063/5.0012901](https://doi.org/10.1063/5.0012901)
 - **[The ONETEP linear-scaling density functional theory program](https://doi.org/10.1063/5.0004445)** *The Journal of chemical physics*. [DOI: 10.1063/5.0004445](https://doi.org/10.1063/5.0004445)
@@ -164,15 +169,21 @@
 
 ## 2019
 
+- **[A nanopump for low-temperature and efficient solar water evaporation](https://doi.org/10.1039/c9ta09281a)** *JOURNAL OF MATERIALS CHEMISTRY A*. [DOI: 10.1039/c9ta09281a](https://doi.org/10.1039/c9ta09281a)
+- **[Rational Design of Ultrasmall Au Nanoparticles on Fe via Galvanic Replacement Under-60 °C for Efficient Methanol Oxidation Reaction Catalyst](https://doi.org/10.1021/acsaem.8b01494)** *ACS APPLIED ENERGY MATERIALS*. [DOI: 10.1021/acsaem.8b01494](https://doi.org/10.1021/acsaem.8b01494)
 - **[Reconsidering Calcium Dehydration as the Rate-Determining Step in Calcium Mineral Growth](https://doi.org/10.1021/acs.jpcc.9b06403)** *Journal of Physical Chemistry C*. [DOI: 10.1021/acs.jpcc.9b06403](https://doi.org/10.1021/acs.jpcc.9b06403)
 - **[The role of cation-vacancies for the electronic and optical properties of aluminosilicate imogolite nanotubes: A non-local, linear-response TDDFT study](https://doi.org/10.3389/fchem.2019.00210)** *Frontiers in Chemistry*. [DOI: 10.3389/fchem.2019.00210](https://doi.org/10.3389/fchem.2019.00210)
 - **[The role of isotropic and anisotropic Hubbard corrections for the magnetic ordering and absolute band alignment of hematite α-Fe<inf>2</inf>O<inf>3</inf>(0001) surfaces](https://doi.org/10.1016/j.pnsc.2019.05.010)** *Progress in Natural Science: Materials International*. [DOI: 10.1016/j.pnsc.2019.05.010](https://doi.org/10.1016/j.pnsc.2019.05.010)
+- **[Theoretical and experimental design of Pt-Co(OH)<sub>2</sub> electrocatalyst for efficient HER performance in alkaline solution](https://doi.org/10.1016/j.pnsc.2019.05.009)** *PROGRESS IN NATURAL SCIENCE-MATERIALS INTERNATIONAL*. [DOI: 10.1016/j.pnsc.2019.05.009](https://doi.org/10.1016/j.pnsc.2019.05.009)
 
 ## 2018
 
+- **[Charge-Transfer-Promoted High Oxygen Evolution Activity of Co@Co<sub>9</sub>S<sub>8</sub> Core-Shell Nanochains](https://doi.org/10.1021/acsami.7b15890)** *ACS APPLIED MATERIALS & INTERFACES*. [DOI: 10.1021/acsami.7b15890](https://doi.org/10.1021/acsami.7b15890)
 - **[Detection of catalytic intermediates at an electrode surface during carbon dioxide reduction by an earth-abundant catalyst](https://doi.org/10.1038/s41929-018-0169-3)** *Nature Catalysis*. [DOI: 10.1038/s41929-018-0169-3](https://doi.org/10.1038/s41929-018-0169-3)
+- **[Improved Electrocatalytic Performance in Overall Water Splitting with Rational Design of Hierarchical Co<sub>3</sub>O<sub>4</sub>@NiFe Layered Double Hydroxide Core-Shell Nanostructure](https://doi.org/10.1002/celc.201800194)** *CHEMELECTROCHEM*. [DOI: 10.1002/celc.201800194](https://doi.org/10.1002/celc.201800194)
 - **[Structural resolution of inorganic nanotubes with complex stoichiometry](https://doi.org/10.1038/s41467-018-04360-z)** *Nature Communications*. [DOI: 10.1038/s41467-018-04360-z](https://doi.org/10.1038/s41467-018-04360-z)
 - **[Task Based Parallelism with OpenMP: A Case Study with DL-POLY-4](https://doi.org/10.3233/978-1-61499-843-3-497)** *Advances in Parallel Computing*. [DOI: 10.3233/978-1-61499-843-3-497](https://doi.org/10.3233/978-1-61499-843-3-497)
+- **[Well-Dispersed Ruthenium in Mesoporous Crystal TiO<sub>2</sub> as an Advanced Electrocatalyst for Hydrogen Evolution Reaction](https://doi.org/10.1021/jacs.7b13736)** *JOURNAL OF THE AMERICAN CHEMICAL SOCIETY*. [DOI: 10.1021/jacs.7b13736](https://doi.org/10.1021/jacs.7b13736)
 
 ## 2017
 
@@ -194,6 +205,7 @@
 - **[Beating the Stoner criterion using molecular interfaces](https://doi.org/10.1038/nature14621)** *Nature*. [DOI: 10.1038/nature14621](https://doi.org/10.1038/nature14621)
 - **[Density functional theory screening of gas-treatment strategies for stabilization of high energy-density lithium metal anodes](https://doi.org/10.1016/j.jpowsour.2015.07.027)** *Journal of Power Sources*. [DOI: 10.1016/j.jpowsour.2015.07.027](https://doi.org/10.1016/j.jpowsour.2015.07.027)
 - **[Large-scale density functional theory simulation of inorganic nanotubes: A case study on Imogolite nanotubes](https://doi.org/10.1179/1432891715z.0000000001560)** *Materials Research Innovations*. [DOI: 10.1179/1432891715z.0000000001560](https://doi.org/10.1179/1432891715z.0000000001560)
+- **[Near-Infrared Light Manipulated Chemoselective Reductions Enabled by an Upconversional Supersandwich Nanostructure](https://doi.org/10.1021/acsami.5b05633)** *ACS APPLIED MATERIALS & INTERFACES*. [DOI: 10.1021/acsami.5b05633](https://doi.org/10.1021/acsami.5b05633)
 - **[What is the orientation of the tip in a scanning tunneling microscope?](https://doi.org/10.1016/j.progsurf.2015.02.001)** *Progress in Surface Science*. [DOI: 10.1016/j.progsurf.2015.02.001](https://doi.org/10.1016/j.progsurf.2015.02.001)
 
 ## 2014

@@ -12,7 +12,6 @@ DEFAULT_CSV_PATH = "data/authors.csv"
 # Fallback dictionary if CSV is not found
 DEFAULT_ORCID_IDS: Dict[str, str] = {
     "0000-0002-7013-6670": "Alin Marin Elena",
-    "0000-0001-6068-6786": "Gilberto Teobaldi",
 }
 
 
@@ -1599,3 +1598,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
