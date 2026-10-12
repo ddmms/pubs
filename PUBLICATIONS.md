@@ -1,7 +1,7 @@
 # Group Publications
 
 *Auto-generated via ORCID Public API*
-*Last updated: 2026-10-08*
+*Last updated: 2026-10-12*
 
 ## 2026
 

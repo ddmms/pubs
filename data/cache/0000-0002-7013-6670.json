@@ -1,6 +1,6 @@
 {
   "last-modified-date": {
-    "value": 1791437679682
+    "value": 1791489436407
   },
   "group": [
     {
@@ -3984,224 +3984,7 @@
     },
     {
       "last-modified-date": {
-        "value": 1763119779886
-      },
-      "external-ids": {
-        "external-id": [
-          {
-            "external-id-type": "eid",
-            "external-id-value": "2-s2.0-85152658805",
-            "external-id-normalized": {
-              "value": "2-s2.0-85152658805",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": null,
-            "external-id-relationship": "self"
-          },
-          {
-            "external-id-type": "wosuid",
-            "external-id-value": "WOS:000974380700001",
-            "external-id-normalized": {
-              "value": "wos:000974380700001",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": {
-              "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000974380700001"
-            },
-            "external-id-relationship": "self"
-          },
-          {
-            "external-id-type": "doi",
-            "external-id-value": "10.1021/acs.jpca.2c08022",
-            "external-id-normalized": {
-              "value": "10.1021/acs.jpca.2c08022",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": null,
-            "external-id-relationship": "self"
-          }
-        ]
-      },
-      "work-summary": [
-        {
-          "put-code": 170710365,
-          "created-date": {
-            "value": 1730387742478
-          },
-          "last-modified-date": {
-            "value": 1730387742478
-          },
-          "source": {
-            "source-orcid": null,
-            "source-client-id": {
-              "uri": "https://orcid.org/client/0000-0002-5982-8983",
-              "path": "0000-0002-5982-8983",
-              "host": "orcid.org"
-            },
-            "source-name": {
-              "value": "Scopus - Elsevier"
-            },
-            "assertion-origin-orcid": {
-              "uri": "https://orcid.org/0000-0002-7013-6670",
-              "path": "0000-0002-7013-6670",
-              "host": "orcid.org"
-            },
-            "assertion-origin-client-id": null,
-            "assertion-origin-name": {
-              "value": "Alin Marin Elena"
-            }
-          },
-          "title": {
-            "title": {
-              "value": "Experimental and Modeling Studies of Local and Nanoscale para-Cresol Behavior: A Comparison of Classical Force Fields"
-            },
-            "subtitle": null,
-            "translated-title": null
-          },
-          "external-ids": {
-            "external-id": [
-              {
-                "external-id-type": "doi",
-                "external-id-value": "10.1021/acs.jpca.2c08022",
-                "external-id-normalized": {
-                  "value": "10.1021/acs.jpca.2c08022",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": null,
-                "external-id-relationship": "self"
-              },
-              {
-                "external-id-type": "eid",
-                "external-id-value": "2-s2.0-85152658805",
-                "external-id-normalized": {
-                  "value": "2-s2.0-85152658805",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": null,
-                "external-id-relationship": "self"
-              },
-              {
-                "external-id-type": "issn",
-                "external-id-value": "15205215 10895639",
-                "external-id-normalized": {
-                  "value": "1520-5215",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": null,
-                "external-id-relationship": "part-of"
-              }
-            ]
-          },
-          "url": {
-            "value": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85152658805&partnerID=MN8TOARS"
-          },
-          "type": "journal-article",
-          "publication-date": {
-            "year": {
-              "value": "2023"
-            },
-            "month": null,
-            "day": null
-          },
-          "journal-title": {
-            "value": "Journal of Physical Chemistry A"
-          },
-          "visibility": "public",
-          "path": "/0000-0002-7013-6670/work/170710365",
-          "display-index": "1"
-        },
-        {
-          "put-code": 196925113,
-          "created-date": {
-            "value": 1763119779886
-          },
-          "last-modified-date": {
-            "value": 1763119779886
-          },
-          "source": {
-            "source-orcid": null,
-            "source-client-id": {
-              "uri": "https://orcid.org/client/APP-OKON44OLRIOZU944",
-              "path": "APP-OKON44OLRIOZU944",
-              "host": "orcid.org"
-            },
-            "source-name": {
-              "value": "Web of Science"
-            },
-            "assertion-origin-orcid": {
-              "uri": "https://orcid.org/0000-0002-7013-6670",
-              "path": "0000-0002-7013-6670",
-              "host": "orcid.org"
-            },
-            "assertion-origin-client-id": null,
-            "assertion-origin-name": {
-              "value": "Alin Marin Elena"
-            }
-          },
-          "title": {
-            "title": {
-              "value": "Experimental and Modeling Studies of Local and Nanoscale para-Cresol Behavior: A Comparison of Classical Force Fields"
-            },
-            "subtitle": null,
-            "translated-title": null
-          },
-          "external-ids": {
-            "external-id": [
-              {
-                "external-id-type": "doi",
-                "external-id-value": "10.1021/ACS.JPCA.2C08022",
-                "external-id-normalized": {
-                  "value": "10.1021/acs.jpca.2c08022",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": {
-                  "value": "https://doi.org/10.1021/ACS.JPCA.2C08022"
-                },
-                "external-id-relationship": "self"
-              },
-              {
-                "external-id-type": "wosuid",
-                "external-id-value": "WOS:000974380700001",
-                "external-id-normalized": {
-                  "value": "wos:000974380700001",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": {
-                  "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000974380700001"
-                },
-                "external-id-relationship": "self"
-              }
-            ]
-          },
-          "url": null,
-          "type": "journal-article",
-          "publication-date": {
-            "year": {
-              "value": "2023"
-            },
-            "month": null,
-            "day": null
-          },
-          "journal-title": {
-            "value": "JOURNAL OF PHYSICAL CHEMISTRY A"
-          },
-          "visibility": "public",
-          "path": "/0000-0002-7013-6670/work/196925113",
-          "display-index": "1"
-        }
-      ]
-    },
-    {
-      "last-modified-date": {
-        "value": 1763121818715
+        "value": 1791489403516
       },
       "external-ids": {
         "external-id": [
@@ -4278,6 +4061,87 @@
         ]
       },
       "work-summary": [
+        {
+          "put-code": 229221731,
+          "created-date": {
+            "value": 1791489178436
+          },
+          "last-modified-date": {
+            "value": 1791489403516
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-7013-6670",
+              "path": "0000-0002-7013-6670",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Alin Marin Elena"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Fast dynamics and high effective dimensionality of liquid fluidity"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1038/s41598-023-41931-7",
+                "external-id-normalized": {
+                  "value": "10.1038/s41598-023-41931-7",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1038/s41598-023-41931-7"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "2045-2322",
+                "external-id-normalized": {
+                  "value": "2045-2322",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://portal.issn.org/resource/ISSN/2045-2322"
+                },
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://dx.doi.org/10.1038/s41598-023-41931-7"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2023"
+            },
+            "month": {
+              "value": "09"
+            },
+            "day": {
+              "value": "20"
+            }
+          },
+          "journal-title": {
+            "value": "Scientific Reports"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-7013-6670/work/229221731",
+          "display-index": "6"
+        },
         {
           "put-code": 196925110,
           "created-date": {
@@ -4749,6 +4613,223 @@
           "visibility": "public",
           "path": "/0000-0002-7013-6670/work/178014945",
           "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1763119779886
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-85152658805",
+            "external-id-normalized": {
+              "value": "2-s2.0-85152658805",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "wosuid",
+            "external-id-value": "WOS:000974380700001",
+            "external-id-normalized": {
+              "value": "wos:000974380700001",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000974380700001"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1021/acs.jpca.2c08022",
+            "external-id-normalized": {
+              "value": "10.1021/acs.jpca.2c08022",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 170710365,
+          "created-date": {
+            "value": 1730387742478
+          },
+          "last-modified-date": {
+            "value": 1730387742478
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-7013-6670",
+              "path": "0000-0002-7013-6670",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Alin Marin Elena"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Experimental and Modeling Studies of Local and Nanoscale para-Cresol Behavior: A Comparison of Classical Force Fields"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1021/acs.jpca.2c08022",
+                "external-id-normalized": {
+                  "value": "10.1021/acs.jpca.2c08022",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-85152658805",
+                "external-id-normalized": {
+                  "value": "2-s2.0-85152658805",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "15205215 10895639",
+                "external-id-normalized": {
+                  "value": "1520-5215",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85152658805&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2023"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Journal of Physical Chemistry A"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-7013-6670/work/170710365",
+          "display-index": "1"
+        },
+        {
+          "put-code": 196925113,
+          "created-date": {
+            "value": 1763119779886
+          },
+          "last-modified-date": {
+            "value": 1763119779886
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/APP-OKON44OLRIOZU944",
+              "path": "APP-OKON44OLRIOZU944",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Web of Science"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-7013-6670",
+              "path": "0000-0002-7013-6670",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Alin Marin Elena"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "Experimental and Modeling Studies of Local and Nanoscale para-Cresol Behavior: A Comparison of Classical Force Fields"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1021/ACS.JPCA.2C08022",
+                "external-id-normalized": {
+                  "value": "10.1021/acs.jpca.2c08022",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1021/ACS.JPCA.2C08022"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "wosuid",
+                "external-id-value": "WOS:000974380700001",
+                "external-id-normalized": {
+                  "value": "wos:000974380700001",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000974380700001"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2023"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "JOURNAL OF PHYSICAL CHEMISTRY A"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-7013-6670/work/196925113",
+          "display-index": "1"
         }
       ]
     },
@@ -5405,224 +5486,7 @@
     },
     {
       "last-modified-date": {
-        "value": 1763119780081
-      },
-      "external-ids": {
-        "external-id": [
-          {
-            "external-id-type": "wosuid",
-            "external-id-value": "WOS:000657019000001",
-            "external-id-normalized": {
-              "value": "wos:000657019000001",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": {
-              "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000657019000001"
-            },
-            "external-id-relationship": "self"
-          },
-          {
-            "external-id-type": "doi",
-            "external-id-value": "10.1080/08927022.2019.1603380",
-            "external-id-normalized": {
-              "value": "10.1080/08927022.2019.1603380",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": null,
-            "external-id-relationship": "self"
-          },
-          {
-            "external-id-type": "eid",
-            "external-id-value": "2-s2.0-85065160726",
-            "external-id-normalized": {
-              "value": "2-s2.0-85065160726",
-              "transient": true
-            },
-            "external-id-normalized-error": null,
-            "external-id-url": null,
-            "external-id-relationship": "self"
-          }
-        ]
-      },
-      "work-summary": [
-        {
-          "put-code": 170710358,
-          "created-date": {
-            "value": 1730387742053
-          },
-          "last-modified-date": {
-            "value": 1730387742053
-          },
-          "source": {
-            "source-orcid": null,
-            "source-client-id": {
-              "uri": "https://orcid.org/client/0000-0002-5982-8983",
-              "path": "0000-0002-5982-8983",
-              "host": "orcid.org"
-            },
-            "source-name": {
-              "value": "Scopus - Elsevier"
-            },
-            "assertion-origin-orcid": {
-              "uri": "https://orcid.org/0000-0002-7013-6670",
-              "path": "0000-0002-7013-6670",
-              "host": "orcid.org"
-            },
-            "assertion-origin-client-id": null,
-            "assertion-origin-name": {
-              "value": "Alin Marin Elena"
-            }
-          },
-          "title": {
-            "title": {
-              "value": "DL_POLY - A performance overview analysing, understanding and exploiting available HPC technology"
-            },
-            "subtitle": null,
-            "translated-title": null
-          },
-          "external-ids": {
-            "external-id": [
-              {
-                "external-id-type": "doi",
-                "external-id-value": "10.1080/08927022.2019.1603380",
-                "external-id-normalized": {
-                  "value": "10.1080/08927022.2019.1603380",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": null,
-                "external-id-relationship": "self"
-              },
-              {
-                "external-id-type": "eid",
-                "external-id-value": "2-s2.0-85065160726",
-                "external-id-normalized": {
-                  "value": "2-s2.0-85065160726",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": null,
-                "external-id-relationship": "self"
-              },
-              {
-                "external-id-type": "issn",
-                "external-id-value": "10290435 08927022",
-                "external-id-normalized": {
-                  "value": "1029-0435",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": null,
-                "external-id-relationship": "part-of"
-              }
-            ]
-          },
-          "url": {
-            "value": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85065160726&partnerID=MN8TOARS"
-          },
-          "type": "journal-article",
-          "publication-date": {
-            "year": {
-              "value": "2021"
-            },
-            "month": null,
-            "day": null
-          },
-          "journal-title": {
-            "value": "Molecular Simulation"
-          },
-          "visibility": "public",
-          "path": "/0000-0002-7013-6670/work/170710358",
-          "display-index": "1"
-        },
-        {
-          "put-code": 196925120,
-          "created-date": {
-            "value": 1763119780081
-          },
-          "last-modified-date": {
-            "value": 1763119780081
-          },
-          "source": {
-            "source-orcid": null,
-            "source-client-id": {
-              "uri": "https://orcid.org/client/APP-OKON44OLRIOZU944",
-              "path": "APP-OKON44OLRIOZU944",
-              "host": "orcid.org"
-            },
-            "source-name": {
-              "value": "Web of Science"
-            },
-            "assertion-origin-orcid": {
-              "uri": "https://orcid.org/0000-0002-7013-6670",
-              "path": "0000-0002-7013-6670",
-              "host": "orcid.org"
-            },
-            "assertion-origin-client-id": null,
-            "assertion-origin-name": {
-              "value": "Alin Marin Elena"
-            }
-          },
-          "title": {
-            "title": {
-              "value": "DL_POLY - A performance overview analysing, understanding and exploiting available HPC technology"
-            },
-            "subtitle": null,
-            "translated-title": null
-          },
-          "external-ids": {
-            "external-id": [
-              {
-                "external-id-type": "doi",
-                "external-id-value": "10.1080/08927022.2019.1603380",
-                "external-id-normalized": {
-                  "value": "10.1080/08927022.2019.1603380",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": {
-                  "value": "https://doi.org/10.1080/08927022.2019.1603380"
-                },
-                "external-id-relationship": "self"
-              },
-              {
-                "external-id-type": "wosuid",
-                "external-id-value": "WOS:000657019000001",
-                "external-id-normalized": {
-                  "value": "wos:000657019000001",
-                  "transient": true
-                },
-                "external-id-normalized-error": null,
-                "external-id-url": {
-                  "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000657019000001"
-                },
-                "external-id-relationship": "self"
-              }
-            ]
-          },
-          "url": null,
-          "type": "journal-article",
-          "publication-date": {
-            "year": {
-              "value": "2021"
-            },
-            "month": null,
-            "day": null
-          },
-          "journal-title": {
-            "value": "MOLECULAR SIMULATION"
-          },
-          "visibility": "public",
-          "path": "/0000-0002-7013-6670/work/196925120",
-          "display-index": "1"
-        }
-      ]
-    },
-    {
-      "last-modified-date": {
-        "value": 1763121458913
+        "value": 1791489436407
       },
       "external-ids": {
         "external-id": [
@@ -5699,6 +5563,85 @@
         ]
       },
       "work-summary": [
+        {
+          "put-code": 229221840,
+          "created-date": {
+            "value": 1791489280713
+          },
+          "last-modified-date": {
+            "value": 1791489436407
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-7013-6670",
+              "path": "0000-0002-7013-6670",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Alin Marin Elena"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Radiation damage effects in amorphous zirconolite"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1016/j.jnucmat.2020.152654",
+                "external-id-normalized": {
+                  "value": "10.1016/j.jnucmat.2020.152654",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1016/j.jnucmat.2020.152654"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "0022-3115",
+                "external-id-normalized": {
+                  "value": "0022-3115",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://portal.issn.org/resource/ISSN/0022-3115"
+                },
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://dx.doi.org/10.1016/j.jnucmat.2020.152654"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2021"
+            },
+            "month": {
+              "value": "02"
+            },
+            "day": null
+          },
+          "journal-title": {
+            "value": "Journal of Nuclear Materials"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-7013-6670/work/229221840",
+          "display-index": "7"
+        },
         {
           "put-code": 170710340,
           "created-date": {
@@ -6170,6 +6113,223 @@
           "visibility": "public",
           "path": "/0000-0002-7013-6670/work/178014934",
           "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1763119780081
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "wosuid",
+            "external-id-value": "WOS:000657019000001",
+            "external-id-normalized": {
+              "value": "wos:000657019000001",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000657019000001"
+            },
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.1080/08927022.2019.1603380",
+            "external-id-normalized": {
+              "value": "10.1080/08927022.2019.1603380",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          },
+          {
+            "external-id-type": "eid",
+            "external-id-value": "2-s2.0-85065160726",
+            "external-id-normalized": {
+              "value": "2-s2.0-85065160726",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": null,
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 170710358,
+          "created-date": {
+            "value": 1730387742053
+          },
+          "last-modified-date": {
+            "value": 1730387742053
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/0000-0002-5982-8983",
+              "path": "0000-0002-5982-8983",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Scopus - Elsevier"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-7013-6670",
+              "path": "0000-0002-7013-6670",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Alin Marin Elena"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "DL_POLY - A performance overview analysing, understanding and exploiting available HPC technology"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1080/08927022.2019.1603380",
+                "external-id-normalized": {
+                  "value": "10.1080/08927022.2019.1603380",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "eid",
+                "external-id-value": "2-s2.0-85065160726",
+                "external-id-normalized": {
+                  "value": "2-s2.0-85065160726",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "issn",
+                "external-id-value": "10290435 08927022",
+                "external-id-normalized": {
+                  "value": "1029-0435",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": null,
+                "external-id-relationship": "part-of"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://www.scopus.com/inward/record.url?eid=2-s2.0-85065160726&partnerID=MN8TOARS"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2021"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "Molecular Simulation"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-7013-6670/work/170710358",
+          "display-index": "1"
+        },
+        {
+          "put-code": 196925120,
+          "created-date": {
+            "value": 1763119780081
+          },
+          "last-modified-date": {
+            "value": 1763119780081
+          },
+          "source": {
+            "source-orcid": null,
+            "source-client-id": {
+              "uri": "https://orcid.org/client/APP-OKON44OLRIOZU944",
+              "path": "APP-OKON44OLRIOZU944",
+              "host": "orcid.org"
+            },
+            "source-name": {
+              "value": "Web of Science"
+            },
+            "assertion-origin-orcid": {
+              "uri": "https://orcid.org/0000-0002-7013-6670",
+              "path": "0000-0002-7013-6670",
+              "host": "orcid.org"
+            },
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": {
+              "value": "Alin Marin Elena"
+            }
+          },
+          "title": {
+            "title": {
+              "value": "DL_POLY - A performance overview analysing, understanding and exploiting available HPC technology"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.1080/08927022.2019.1603380",
+                "external-id-normalized": {
+                  "value": "10.1080/08927022.2019.1603380",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.1080/08927022.2019.1603380"
+                },
+                "external-id-relationship": "self"
+              },
+              {
+                "external-id-type": "wosuid",
+                "external-id-value": "WOS:000657019000001",
+                "external-id-normalized": {
+                  "value": "wos:000657019000001",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://www.webofscience.com/wos/woscc/full-record/WOS:000657019000001"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": null,
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2021"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": {
+            "value": "MOLECULAR SIMULATION"
+          },
+          "visibility": "public",
+          "path": "/0000-0002-7013-6670/work/196925120",
+          "display-index": "1"
         }
       ]
     },
