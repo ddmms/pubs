@@ -1,8 +1,98 @@
 {
   "last-modified-date": {
-    "value": 1791489436407
+    "value": 1792831269811
   },
   "group": [
+    {
+      "last-modified-date": {
+        "value": 1792831269811
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.21203/rs.3.rs-11077916/v1",
+            "external-id-normalized": {
+              "value": "10.21203/rs.3.rs-11077916/v1",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.21203/rs.3.rs-11077916/v1"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 231116910,
+          "created-date": {
+            "value": 1792831269811
+          },
+          "last-modified-date": {
+            "value": 1792831269811
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-7013-6670",
+              "path": "0000-0002-7013-6670",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Alin Marin Elena"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "First-Principles Calculation of FE1-X SX Liquid Alloys at Conditions of Earth\u2019s Outer Core"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.21203/rs.3.rs-11077916/v1",
+                "external-id-normalized": {
+                  "value": "10.21203/rs.3.rs-11077916/v1",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.21203/rs.3.rs-11077916/v1"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "http://dx.doi.org/10.21203/rs.3.rs-11077916/v1"
+          },
+          "type": "preprint",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": {
+              "value": "10"
+            },
+            "day": {
+              "value": "12"
+            }
+          },
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0000-0002-7013-6670/work/231116910",
+          "display-index": "0"
+        }
+      ]
+    },
     {
       "last-modified-date": {
         "value": 1791437455424
@@ -502,6 +592,92 @@
           },
           "visibility": "public",
           "path": "/0000-0002-7013-6670/work/229107657",
+          "display-index": "0"
+        }
+      ]
+    },
+    {
+      "last-modified-date": {
+        "value": 1792830850012
+      },
+      "external-ids": {
+        "external-id": [
+          {
+            "external-id-type": "doi",
+            "external-id-value": "10.48550/ARXIV.2610.03444",
+            "external-id-normalized": {
+              "value": "10.48550/arxiv.2610.03444",
+              "transient": true
+            },
+            "external-id-normalized-error": null,
+            "external-id-url": {
+              "value": "https://doi.org/10.48550/ARXIV.2610.03444"
+            },
+            "external-id-relationship": "self"
+          }
+        ]
+      },
+      "work-summary": [
+        {
+          "put-code": 231116610,
+          "created-date": {
+            "value": 1792830850012
+          },
+          "last-modified-date": {
+            "value": 1792830850012
+          },
+          "source": {
+            "source-orcid": {
+              "uri": "https://orcid.org/0000-0002-7013-6670",
+              "path": "0000-0002-7013-6670",
+              "host": "orcid.org"
+            },
+            "source-client-id": null,
+            "source-name": {
+              "value": "Alin Marin Elena"
+            },
+            "assertion-origin-orcid": null,
+            "assertion-origin-client-id": null,
+            "assertion-origin-name": null
+          },
+          "title": {
+            "title": {
+              "value": "Electronic Density versus Geometry for Machine-Learned Molecular Absorption Spectra"
+            },
+            "subtitle": null,
+            "translated-title": null
+          },
+          "external-ids": {
+            "external-id": [
+              {
+                "external-id-type": "doi",
+                "external-id-value": "10.48550/ARXIV.2610.03444",
+                "external-id-normalized": {
+                  "value": "10.48550/arxiv.2610.03444",
+                  "transient": true
+                },
+                "external-id-normalized-error": null,
+                "external-id-url": {
+                  "value": "https://doi.org/10.48550/ARXIV.2610.03444"
+                },
+                "external-id-relationship": "self"
+              }
+            ]
+          },
+          "url": {
+            "value": "https://arxiv.org/abs/2610.03444"
+          },
+          "type": "journal-article",
+          "publication-date": {
+            "year": {
+              "value": "2026"
+            },
+            "month": null,
+            "day": null
+          },
+          "journal-title": null,
+          "visibility": "public",
+          "path": "/0000-0002-7013-6670/work/231116610",
           "display-index": "0"
         }
       ]

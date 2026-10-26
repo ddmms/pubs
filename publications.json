@@ -100,12 +100,40 @@
     ]
   },
   {
+    "title": "Electronic Density versus Geometry for Machine-Learned Molecular Absorption Spectra",
+    "year": "2026",
+    "journal": null,
+    "doi": "10.48550/arxiv.2610.03444",
+    "url": "https://doi.org/10.48550/arxiv.2610.03444",
+    "type": "journal-article",
+    "authors": [
+      "Alin Marin Elena"
+    ],
+    "orcids": [
+      "0000-0002-7013-6670"
+    ]
+  },
+  {
     "title": "Fine-tuning MLIP foundation models: strategies for accuracy and transferability",
     "year": "2026",
     "journal": "arXiv preprint arXiv:2606.12704",
     "doi": null,
     "url": null,
     "type": "journal-article",
+    "authors": [
+      "Alin Marin Elena"
+    ],
+    "orcids": [
+      "0000-0002-7013-6670"
+    ]
+  },
+  {
+    "title": "First-Principles Calculation of FE1-X SX Liquid Alloys at Conditions of Earth’s Outer Core",
+    "year": "2026",
+    "journal": null,
+    "doi": "10.21203/rs.3.rs-11077916/v1",
+    "url": "https://doi.org/10.21203/rs.3.rs-11077916/v1",
+    "type": "preprint",
     "authors": [
       "Alin Marin Elena"
     ],

@@ -1,7 +1,7 @@
 # Group Publications
 
 *Auto-generated via ORCID Public API*
-*Last updated: 2026-10-19*
+*Last updated: 2026-10-26*
 
 ## 2026
 
@@ -12,7 +12,9 @@
 - **[Bond, orbital and spin order in d4/d6/d7 perovskite oxides: successes and limitations of foundation interatomic potentials](https://arxiv.org/abs/2607.08351)** *arxiv.org/abs/2607.08351*.
 - **[Data-driven Design of Metal-Organic Frameworks with Tunable Negative Thermal Expansion](https://arxiv.org/abs/2607.18594)** *arXiv preprint arXiv:2607.18594*.
 - **[DL_POLY 5: Calculation of system properties on the fly for very large systems via massive parallelism](https://www.webofscience.com/wos/woscc/full-record/WOS:001724640900001)** *COMPUTER PHYSICS COMMUNICATIONS*.
+- **[Electronic Density versus Geometry for Machine-Learned Molecular Absorption Spectra](https://doi.org/10.48550/arxiv.2610.03444)** [DOI: 10.48550/arxiv.2610.03444](https://doi.org/10.48550/arxiv.2610.03444)
 - **Fine-tuning MLIP foundation models: strategies for accuracy and transferability** *arXiv preprint arXiv:2606.12704*.
+- **[First-Principles Calculation of FE1-X SX Liquid Alloys at Conditions of Earth’s Outer Core](https://doi.org/10.21203/rs.3.rs-11077916/v1)** [DOI: 10.21203/rs.3.rs-11077916/v1](https://doi.org/10.21203/rs.3.rs-11077916/v1)
 - **[Functionalized MOFs for Subnanometric Control of Pd Speciation for Selective Hydrogenation of Butadiene](https://doi.org/10.1021/acsanm.6c00899)** *ACS Applied Nano Materials*. [DOI: 10.1021/acsanm.6c00899](https://doi.org/10.1021/acsanm.6c00899)
 - **[High-Pressure Inelastic Neutron Spectroscopy: Experimental Validation of Machine-Learned Interatomic Potential Energy Landscapes](https://doi.org/10.1021/acs.jpclett.6c00720)** *The Journal of Physical Chemistry Letters*. [DOI: 10.1021/acs.jpclett.6c00720](https://doi.org/10.1021/acs.jpclett.6c00720)
 - **[Identify the switching of VO 3 and VO 4 and its effect on ferroelectric hafnia](https://doi.org/10.1103/2j8c-3z3h)** *Physical Review B*. [DOI: 10.1103/2j8c-3z3h](https://doi.org/10.1103/2j8c-3z3h)
